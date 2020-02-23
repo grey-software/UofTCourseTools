@@ -2,8 +2,34 @@ import requests, re, json
 from bs4 import BeautifulSoup, element
 from subject import Subject
 from program import Program
+from subject_group import Subject_Group
 from typing import Dict, List, Set
 from tqdm import tqdm  # progress bar magic
+
+
+def create_subject_groups() -> List[Subject_Group]:
+    all_subject_groups = []
+    source = requests.get("https://www.utm.utoronto.ca/programs-departments").text
+    soup = BeautifulSoup(source, 'lxml')
+    subject_group_soups = soup.find('div', id='main-wrapper').find('div', id='content').find('div', class_='region region-content').find('p').find_all('b')[1:-2]
+
+    for subject_group_soup in subject_group_soups:
+        curr_subject_group = Subject_Group()
+        curr_subject_group.set_name(subject_group_soup.text.replace('\xa0', " "))
+        next_line_soup = subject_group_soup.next_sibling
+
+        while(not group_title_reached(next_line_soup)):
+            if isinstance(next_line_soup, element.Tag) and next_line_soup.get('href') is not None:
+                # print(next_line_soup.text.split(' (')[0].replace('and', '&'))
+                curr_subject_group.add_all_subject_names(next_line_soup.text.split(' ')[0].strip(','))
+
+            next_line_soup = next_line_soup.next_sibling
+
+
+        all_subject_groups.append(curr_subject_group)
+        print(curr_subject_group.all_subject_names)
+    
+    return all_subject_groups
 
 
 # test if a subject is no longer offered
@@ -27,7 +53,7 @@ def all_subject_ids(url: str) -> Set[str]:
     soup = BeautifulSoup(source, 'lxml')
     subject_groups = soup.find('div', class_='centralpos').find(
         'div', class_='contentpos').find_all('div', class_='normaltext')[1].find_all('ul')
-
+    
     for subject_group in subject_groups:
         for subject in subject_group.find_all('li'):
             subject_id = subject.a['href'].split('=')[1]
@@ -38,6 +64,11 @@ def all_subject_ids(url: str) -> Set[str]:
 # test if a program title is reached
 def title_reached(test_soup) -> bool:
     return isinstance(test_soup, element.Tag) and test_soup.name == 'p' and test_soup['class'][0] == "title_program"
+
+
+# test if a group title is reached
+def group_title_reached(test_soup) -> bool:
+    return isinstance(test_soup, element.Tag) and test_soup.name == 'b'
 
 
 # return a dictionary with the code of the program as the key and its type as the value
@@ -81,11 +112,16 @@ def get_code_name_level(scraped_program_title: str) -> List[str]:
 
     return all_values
 
+
 # this is the group id of every subject in UTM
 subject_ids = all_subject_ids(
     "https://student.utm.utoronto.ca/calendar//program_list.pl")
 
 all_program_types = get_all_program_types() # gets the type of every program
+
+subject_ids = []
+
+all_subject_groups = create_subject_groups()
 
 for subject_id in tqdm(subject_ids):
 
@@ -105,7 +141,7 @@ for subject_id in tqdm(subject_ids):
         if notes is not None:
             notes = notes.find_all('li')
 
-        curr_subject.set_name(title.text.split(' (')[0])
+        curr_subject.set_name(title.text.split(' (')[0].replace('and', '&'))
 
         for degree in all_degrees:
             if degree in title.text:
@@ -161,6 +197,13 @@ for subject_id in tqdm(subject_ids):
 
             curr_subject.add_program(curr_program)
 
-        # write data to json file
-        with open('../output/subjects/' + curr_subject.name + '.json', 'w') as file:
-            json.dump(curr_subject.to_json(), file)
+        for group in all_subject_groups:
+            if group.subject_in_group(curr_subject.name.split(' ')[0].replace(',','')):
+                group.add_subject(curr_subject)
+
+            print(group.tp_json())
+
+
+        # # write data to json file
+        # with open('../output/subjects/' + curr_subject.name + '.json', 'w') as file:
+        #     json.dump(curr_subject.to_json(), file)
