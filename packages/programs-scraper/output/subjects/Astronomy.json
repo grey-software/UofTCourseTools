@@ -1,0 +1,1 @@
+{"name": "Astronomy", "degrees": ["HBSc"], "notes": [], "programs": [{"name": "Astronomy (Science)", "level": "Major", "code": "ERMAJ2204", "type": "Type 2", "notes": [], "courses": {"1": ["AST110H5", "MAT102H5", "MAT135H5", "MAT135Y5", "PHY136H5"], "2": ["JCP221H5", "MAT223H5", "MAT244H5", "PHY241H5", "PHY242H5", "PHY245H5"], "3": ["JCP321H5", "JCP322H5"], "4": []}}]}

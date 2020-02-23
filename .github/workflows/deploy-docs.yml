@@ -2,9 +2,12 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'packages/docs/*'
 
+      
 jobs:
-  build-and-deploy:
+  build-and-deploy-docs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -16,3 +19,9 @@ jobs:
       run: npm run setup
     - name: Build documentation website
       run: npm run build-docs
+    - name: Commit new website build
+      run: |
+        git config --global user.name 'ArsalaBangash'
+        git config --global user.email 'arsalabangash@gmail.com'
+        git commit -am "Deploying new website build"
+        git push
