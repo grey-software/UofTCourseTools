@@ -1,0 +1,179 @@
+{
+    "name": "PHILOSOPHY",
+    "group": [
+        {
+            "name": "Philosophy",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "at least 3.5 credits in the History of Philosophy:  PHL200H5, PHL210Y5 and 2.0 additional credits from PHL220H5, PHL300H5, PHL307H5, PHL310H5, PHL314H5, PHL315H5, PHL324H5, PHL325H5, PHL327H5, PHL400H5, PHL410H5, PHL420H5;",
+                "at least 1.0 credit in Logic and Philosophy of Language:  PHL245H5 and 0.5 additional credit from PHL246H5, PHL340H5, PHL345H5, PHL346H5, PHL347H5, PHL348H5, PHL350H5, PHL451H5",
+                "at least 1.5  credits in Metaphysics and Epistemology:  from PHL332H5, PHL333H5, PHL341H5, PHL342H5, PHL355H5, PHL358H5, PHL360H5, PHL430H5",
+                "at least 1.5 credits in Ethics and Political Philosophy: PHL265H5 and PHL275H5 and 0.5 additional credit from PHL365H5, PHL370H5, PHL374H5, PHL376H5, PHL475H5."
+            ],
+            "programs": [
+                {
+                    "name": "Philosophy (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE0231",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [
+                            "PHL200H5",
+                            "PHL210Y5",
+                            "PHL220H5",
+                            "PHL245H5",
+                            "PHL246H5",
+                            "PHL265H5",
+                            "PHL275H5"
+                        ],
+                        "3": [
+                            "PHL300H5",
+                            "PHL307H5",
+                            "PHL310H5",
+                            "PHL314H5",
+                            "PHL315H5",
+                            "PHL324H5",
+                            "PHL325H5",
+                            "PHL327H5",
+                            "PHL332H5",
+                            "PHL333H5",
+                            "PHL340H5",
+                            "PHL341H5",
+                            "PHL342H5",
+                            "PHL345H5",
+                            "PHL346H5",
+                            "PHL347H5",
+                            "PHL348H5",
+                            "PHL350H5",
+                            "PHL355H5",
+                            "PHL358H5",
+                            "PHL360H5",
+                            "PHL365H5",
+                            "PHL370H5",
+                            "PHL374H5",
+                            "PHL376H5"
+                        ],
+                        "4": [
+                            "PHL400H5",
+                            "PHL410H5",
+                            "PHL420H5",
+                            "PHL430H5",
+                            "PHL451H5",
+                            "PHL475H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Philosophy (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0231",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [
+                            "PHL200H5",
+                            "PHL210Y5",
+                            "PHL220H5",
+                            "PHL240H5",
+                            "PHL245H5",
+                            "PHL258H5",
+                            "PHL265H5",
+                            "PHL274H5",
+                            "PHL275H5"
+                        ],
+                        "3": [
+                            "PHL300H5",
+                            "PHL307H5",
+                            "PHL310H5",
+                            "PHL314H5",
+                            "PHL315H5",
+                            "PHL324H5",
+                            "PHL325H5",
+                            "PHL327H5",
+                            "PHL332H5",
+                            "PHL333H5",
+                            "PHL340H5",
+                            "PHL341H5",
+                            "PHL342H5",
+                            "PHL350H5",
+                            "PHL355H5",
+                            "PHL358H5",
+                            "PHL360H5"
+                        ],
+                        "4": [
+                            "PHL400H5",
+                            "PHL410H5",
+                            "PHL420H5",
+                            "PHL430H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Philosophy (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0231",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Ethics, Law and Society",
+                    "level": "Minor",
+                    "code": "ERMIN1618",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "PHL101H5",
+                            "PHL102H5",
+                            "PHL105Y5",
+                            "PHL145H5"
+                        ],
+                        "2": [
+                            "PHL204H5",
+                            "PHL210Y5",
+                            "PHL235H5",
+                            "PHL240H5",
+                            "PHL241H5",
+                            "PHL244H5",
+                            "PHL245H5",
+                            "PHL247H5",
+                            "PHL255H5",
+                            "PHL258H5",
+                            "PHL265H5",
+                            "PHL267H5",
+                            "PHL271H5",
+                            "PHL273H5",
+                            "PHL274H5",
+                            "PHL275H5",
+                            "PHL277Y5",
+                            "PHL283H5",
+                            "PHL284H5",
+                            "PHL285H5"
+                        ],
+                        "3": [
+                            "PHL344H5",
+                            "PHL365H5",
+                            "PHL370H5",
+                            "PHL375H5"
+                        ],
+                        "4": [
+                            "PHL451H5",
+                            "PHL475H5"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

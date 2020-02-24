@@ -1,0 +1,391 @@
+{
+    "name": "SOCIOLOGY ",
+    "group": [
+        {
+            "name": "Criminology, Law & Society",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "Credits: Students must have a minimum of 4.0 credits.",
+                "Prerequisite Course(s): Students must have a final mark of 70% in their first successful attempt at UTM SOC100H5 or a final mark of 73% in each of two 0.5 credit UTM SOC courses at the 200 level or above.",
+                "Cumulative Grade Point Average (CGPA): The Department of Sociology determines the CGPA requirement each admission period in relation to the number of applicants and it is never below 2.00."
+            ],
+            "programs": [
+                {
+                    "name": "Criminology, Law and Society (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE0727",
+                    "type": "Type 2",
+                    "notes": [
+                        "Credits: Students must have a minimum of 4.0 credits.",
+                        "Prerequisite Course(s): Students must have a final mark of 70% in their first successful attempt at UTM SOC100H5 or a final mark of 73% in each of two 0.5 credit UTM SOC courses at the 200 level or above.",
+                        "Cumulative Grade Point Average (CGPA): The Department of Sociology determines the CGPA requirement each admission period in relation to the number of applicants and it is never below 2.00."
+                    ],
+                    "courses": {
+                        "1": [
+                            "SOC100H5"
+                        ],
+                        "2": [
+                            "ANT205H5",
+                            "ANT209H5",
+                            "ANT217H5",
+                            "FSC239Y5",
+                            "FSC271H5",
+                            "PHL246H5",
+                            "PHL265H5",
+                            "PHL271H5",
+                            "PHL274H5",
+                            "PHL275H5",
+                            "PHL277Y5",
+                            "POL208Y5",
+                            "POL214Y5",
+                            "PSY220H5",
+                            "PSY230H5",
+                            "PSY240H5",
+                            "PSY270H5",
+                            "SOC205H5",
+                            "SOC206H5",
+                            "SOC208H5",
+                            "SOC209H5",
+                            "SOC211H5",
+                            "SOC216H5",
+                            "SOC219H5",
+                            "SOC221H5",
+                            "SOC222H5",
+                            "SOC231H5",
+                            "SOC253H5",
+                            "SOC263H5",
+                            "SOC275H5",
+                            "SOC299H5",
+                            "SOC299Y5",
+                            "WGS215H5"
+                        ],
+                        "3": [
+                            "ANT306H5",
+                            "ANT352H5",
+                            "ANT354H5",
+                            "ANT369H5",
+                            "FSC360H5",
+                            "PHL365H5",
+                            "PHL370H5",
+                            "PHL374H5",
+                            "PHL376H5",
+                            "POL310Y5",
+                            "POL340Y5",
+                            "POL343Y5",
+                            "PSY328H5",
+                            "PSY340H5",
+                            "PSY341H5",
+                            "PSY344H5",
+                            "PSY346H5",
+                            "SOC301H5",
+                            "SOC302H5",
+                            "SOC303H5",
+                            "SOC306H5",
+                            "SOC310H5",
+                            "SOC311H5",
+                            "SOC316H5",
+                            "SOC318H5",
+                            "SOC320H5",
+                            "SOC322H5",
+                            "SOC323H5",
+                            "SOC324H5",
+                            "SOC325H5",
+                            "SOC326H5",
+                            "SOC327H5",
+                            "SOC328H5",
+                            "SOC330H5",
+                            "SOC332H5",
+                            "SOC337H5",
+                            "SOC338H5",
+                            "SOC342H5",
+                            "SOC346H5",
+                            "SOC350H5",
+                            "SOC351H5",
+                            "SOC357H5",
+                            "SOC359H5",
+                            "SOC364H5",
+                            "SOC365H5",
+                            "SOC366H5",
+                            "SOC371H5",
+                            "SOC378H5",
+                            "SOC379H5",
+                            "SOC380H5",
+                            "SOC382H5",
+                            "SOC387H5",
+                            "SOC393H5",
+                            "SOC394H5",
+                            "SOC399H5",
+                            "SOC399Y5",
+                            "WGS365H5",
+                            "WGS373H5"
+                        ],
+                        "4": [
+                            "ANT439H5",
+                            "FSC406H5",
+                            "PSY440H5",
+                            "SOC401H5",
+                            "SOC403H5",
+                            "SOC420H5",
+                            "SOC421H5",
+                            "SOC423H5",
+                            "SOC425H5",
+                            "SOC429H5",
+                            "SOC432H5",
+                            "SOC440H5",
+                            "SOC446H5",
+                            "SOC447H5",
+                            "SOC448H5",
+                            "SOC450H5",
+                            "SOC455H5",
+                            "SOC456H5",
+                            "SOC457H5",
+                            "SOC460H5",
+                            "SOC463H5",
+                            "SOC475H5",
+                            "SOC476H5",
+                            "SOC480Y5",
+                            "SOC493H5",
+                            "SOC494H5",
+                            "SOC499H5",
+                            "SOC499Y5",
+                            "WGS420H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Criminology, Law and Society (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0727",
+                    "type": "Type 2",
+                    "notes": [
+                        "Credits: Students must have a minimum of 4.0 credits.",
+                        "Prerequisite Course(s): Students must have a final mark of 67% in their first successful attempt at UTM SOC100H5 or a final mark of 70% in each of two 0.5 credit UTM SOC courses at the 200-level or above.",
+                        "Cumulative Grade Point Average (CGPA): The Department of Sociology determines the CGPA requirement each admission period in relation to the number of applicants and it is never below 2.00."
+                    ],
+                    "courses": {
+                        "1": [
+                            "SOC100H5"
+                        ],
+                        "2": [
+                            "ANT205H5",
+                            "ANT209H5",
+                            "FSC239Y5",
+                            "FSC271H5",
+                            "PHL246H5",
+                            "PHL265H5",
+                            "PHL271H5",
+                            "PHL274H5",
+                            "PHL275H5",
+                            "PHL277Y5",
+                            "POL208Y5",
+                            "POL214Y5",
+                            "PSY220H5",
+                            "PSY230H5",
+                            "PSY240H5",
+                            "PSY270H5",
+                            "SOC205H5",
+                            "SOC206H5",
+                            "SOC208H5",
+                            "SOC209H5",
+                            "SOC211H5",
+                            "SOC216H5",
+                            "SOC219H5",
+                            "SOC221H5",
+                            "SOC222H5",
+                            "SOC231H5",
+                            "SOC253H5",
+                            "SOC263H5",
+                            "SOC275H5",
+                            "SOC299H5",
+                            "SOC299Y5",
+                            "WGS215H5"
+                        ],
+                        "3": [
+                            "ANT306H5",
+                            "ANT352H5",
+                            "ANT354H5",
+                            "ANT369H5",
+                            "FSC360H5",
+                            "PHL365H5",
+                            "PHL370H5",
+                            "PHL374H5",
+                            "PHL376H5",
+                            "POL310Y5",
+                            "POL340Y5",
+                            "POL343Y5",
+                            "PSY328H5",
+                            "PSY340H5",
+                            "PSY341H5",
+                            "PSY344H5",
+                            "PSY346H5",
+                            "SOC301H5",
+                            "SOC302H5",
+                            "SOC303H5",
+                            "SOC306H5",
+                            "SOC310H5",
+                            "SOC311H5",
+                            "SOC316H5",
+                            "SOC318H5",
+                            "SOC320H5",
+                            "SOC322H5",
+                            "SOC323H5",
+                            "SOC324H5",
+                            "SOC325H5",
+                            "SOC326H5",
+                            "SOC327H5",
+                            "SOC328H5",
+                            "SOC330H5",
+                            "SOC332H5",
+                            "SOC337H5",
+                            "SOC338H5",
+                            "SOC342H5",
+                            "SOC346H5",
+                            "SOC350H5",
+                            "SOC351H5",
+                            "SOC357H5",
+                            "SOC359H5",
+                            "SOC364H5",
+                            "SOC365H5",
+                            "SOC366H5",
+                            "SOC371H5",
+                            "SOC378H5",
+                            "SOC379H5",
+                            "SOC380H5",
+                            "SOC382H5",
+                            "SOC387H5",
+                            "SOC393H5",
+                            "SOC394H5",
+                            "SOC399H5",
+                            "SOC399Y5",
+                            "WGS365H5",
+                            "WGS373H5"
+                        ],
+                        "4": [
+                            "ANT439H5",
+                            "FSC406H5",
+                            "PSY440H5",
+                            "SOC401H5",
+                            "SOC403H5",
+                            "SOC420H5",
+                            "SOC421H5",
+                            "SOC423H5",
+                            "SOC425H5",
+                            "SOC429H5",
+                            "SOC432H5",
+                            "SOC440H5",
+                            "SOC446H5",
+                            "SOC447H5",
+                            "SOC448H5",
+                            "SOC450H5",
+                            "SOC455H5",
+                            "SOC456H5",
+                            "SOC457H5",
+                            "SOC460H5",
+                            "SOC463H5",
+                            "SOC475H5",
+                            "SOC476H5",
+                            "SOC480Y5",
+                            "SOC493H5",
+                            "SOC494H5",
+                            "SOC499H5",
+                            "SOC499Y5",
+                            "WGS420H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Sociology",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "Credits:Students must have a minimum of 4.0 credits.",
+                "Prerequisite Course(s): Students must have a final mark of 70% in their first successful attempt at UTM SOC100H5 or a final mark of 73% in each of two 0.5 credit UTM SOC courses at the 200 level or above.",
+                "Cumulative Grade Point Average (CGPA): The Department of Sociology determines the CGPA requirement each admission period in relation to the number of applicants and it is never below 2.00."
+            ],
+            "programs": [
+                {
+                    "name": "Sociology (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1013",
+                    "type": "Type 2",
+                    "notes": [
+                        "Credits:Students must have a minimum of 4.0 credits.",
+                        "Prerequisite Course(s): Students must have a final mark of 70% in their first successful attempt at UTM SOC100H5 or a final mark of 73% in each of two 0.5 credit UTM SOC courses at the 200 level or above.",
+                        "Cumulative Grade Point Average (CGPA): The Department of Sociology determines the CGPA requirement each admission period in relation to the number of applicants and it is never below 2.00."
+                    ],
+                    "courses": {
+                        "1": [
+                            "SOC100H5"
+                        ],
+                        "2": [
+                            "SOC221H5",
+                            "SOC222H5",
+                            "SOC231H5"
+                        ],
+                        "3": [
+                            "SOC350H5",
+                            "SOC387H5"
+                        ],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Sociology (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1013",
+                    "type": "Type 2",
+                    "notes": [
+                        "Credits: Students must have a minimum of 4.0 credits.",
+                        "Prerequisite Course(s): Students must have a final mark of 67% in their first successful attempt at UTM SOC100H5 or a final mark of 70% in each of two 0.5 credit UTM SOC courses at the 200 level or above.",
+                        "Cumulative Grade Point Average (CGPA): The Department of Sociology determines the CGPA requirement each admission period in relation to the number of applicants and it is never below 2.00."
+                    ],
+                    "courses": {
+                        "1": [
+                            "SOC100H5"
+                        ],
+                        "2": [
+                            "SOC221H5",
+                            "SOC222H5",
+                            "SOC231H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Sociology (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1013",
+                    "type": "Type 2",
+                    "notes": [
+                        "Credits: Students must have a minimum of 4.0 credits.",
+                        "Prerequisite Course(s): Students must have a final mark of 65% in their first successful attempt at UTM SOC100H5 or a final mark of 67% in each of two 0.5 credit UTM SOC courses at the 200 level or above.",
+                        "Cumulative Grade Point Average (CGPA): The Department of Sociology determines the CGPA requirement each admission period in relation to the number of applicants and it is never below 2.00."
+                    ],
+                    "courses": {
+                        "1": [
+                            "SOC100H5"
+                        ],
+                        "2": [
+                            "SOC205H5",
+                            "SOC209H5",
+                            "SOC221H5",
+                            "SOC222H5",
+                            "SOC231H5"
+                        ],
+                        "3": [
+                            "SOC350H5",
+                            "SOC387H5"
+                        ],
+                        "4": []
+                    }
+                }
+            ]
+        }
+    ]
+}

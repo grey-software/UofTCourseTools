@@ -1,0 +1,514 @@
+{
+    "name": "HISTORICAL STUDIES",
+    "group": [
+        {
+            "name": "South Asian Civilizations",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "South Asian Civilizations (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1333",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ANT102H5",
+                            "HIS101H5",
+                            "POL114H5",
+                            "RLG101H5",
+                            "SOC100H5",
+                            "VST100H5"
+                        ],
+                        "2": [
+                            "ARA211Y5",
+                            "ARA212Y5",
+                            "CIN215H5",
+                            "DTS201H5",
+                            "FAH281H5",
+                            "FAH282H5",
+                            "HIN212Y5",
+                            "HIS211H5",
+                            "HIS212H5",
+                            "HIS282H5",
+                            "PRS210Y5",
+                            "RLG204H5",
+                            "RLG205H5",
+                            "RLG206H5",
+                            "RLG207H5",
+                            "RLG208H5",
+                            "SAN291Y5",
+                            "URD212Y5"
+                        ],
+                        "3": [
+                            "ANT310H5",
+                            "ANT316H5",
+                            "ANT320H5",
+                            "ARA312Y5",
+                            "CIN302H5",
+                            "FAH385H5",
+                            "FAH395H5",
+                            "GGR367H5",
+                            "HIN311H5",
+                            "HIN312Y5",
+                            "HIS366H5",
+                            "HIS382H5",
+                            "HIS386H5",
+                            "HIS394H5",
+                            "POL303Y5",
+                            "POL304Y5",
+                            "PRS310Y5",
+                            "RLG304H5",
+                            "RLG305H5",
+                            "RLG307H5",
+                            "RLG308H5",
+                            "RLG310H5",
+                            "RLG347H5",
+                            "RLG348H5",
+                            "RLG356H5",
+                            "RLG360H5",
+                            "RLG370H5",
+                            "RLG371H5",
+                            "RLG373H5",
+                            "RLG374H5",
+                            "SAN392Y5",
+                            "SOC354H5",
+                            "SOC375H5",
+                            "URD312Y5",
+                            "VCC306H5",
+                            "VCC360H5",
+                            "WGS335H5",
+                            "WGS368H5"
+                        ],
+                        "4": [
+                            "ARA412Y5",
+                            "FAH465H5",
+                            "FAH495H5",
+                            "HIN411H5",
+                            "HIN412Y5",
+                            "HIS484H5",
+                            "HIS493H5",
+                            "POL446H5",
+                            "RLG449H5",
+                            "RLG450H5",
+                            "RLG451Y5",
+                            "RLG452H5",
+                            "RLG460H5",
+                            "RLG470H5",
+                            "VCC406H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "History of Religions",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "History of Religions (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE0151",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "RLG101H5"
+                        ],
+                        "2": [],
+                        "3": [
+                            "RLG312Y5"
+                        ],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "History of Religions (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0151",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "RLG101H5"
+                        ],
+                        "2": [],
+                        "3": [
+                            "RLG312Y5"
+                        ],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "History of Religions (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0151",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "RLG101H5"
+                        ],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Diaspora & Transnational Studies",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "DTS201H5 and DTS202H5",
+                "5.0 credits from the list of electives below",
+                "1.0 400-level credits, of which 0.5 must be from the following list of St. George courses: DTS401H1, DTS402H1, DTS403H1, DTS404H1, DTS405H1, DTS406H1 (should be taken in the fourth year of study)."
+            ],
+            "programs": [
+                {
+                    "name": "Diaspora and Transnational Studies (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1407",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [
+                            "DTS201H5",
+                            "DTS202H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Diaspora and Transnational Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1407",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [
+                            "DTS201H5",
+                            "DTS202H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Latin American & Caribbean Studies",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "Latin American and Caribbean Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0562",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "POL112H5",
+                            "POL113H5",
+                            "POL114H5",
+                            "SPA100Y5"
+                        ],
+                        "2": [
+                            "DTS201H5",
+                            "FRE280Y5",
+                            "FSL205Y5",
+                            "HIS290H5",
+                            "POL200Y5",
+                            "POL218Y5",
+                            "SOC253H5",
+                            "SPA219Y5",
+                            "SPA220Y5",
+                            "SPA235H5",
+                            "SPA259H5",
+                            "SPA275H5",
+                            "WGS200Y5"
+                        ],
+                        "3": [
+                            "ANT310H5",
+                            "ANT320H5",
+                            "ENG370H5",
+                            "FAH356H5",
+                            "FRE391H5",
+                            "GGR369H5",
+                            "HIS330H5",
+                            "HIS390H5",
+                            "HIS391H5",
+                            "LIN366H5",
+                            "POL320Y5",
+                            "SPA320Y5",
+                            "SPA323H5",
+                            "VCC306H5",
+                            "WGS350H5",
+                            "WGS368H5",
+                            "WGS369Y5",
+                            "WGS370H5"
+                        ],
+                        "4": [
+                            "ENG435H5",
+                            "ENG436H5",
+                            "HIS454H5",
+                            "HIS490H5",
+                            "HIS494H5",
+                            "LIN466H5",
+                            "POL438Y5",
+                            "POL487H5",
+                            "VCC406H5",
+                            "WGS450H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Women & Gender Studies",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "Women and Gender Studies (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1443",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "WGS101H5"
+                        ],
+                        "2": [
+                            "ANT211H5",
+                            "ENG269H5",
+                            "ENG275H5",
+                            "PHL243H5",
+                            "PHL267H5",
+                            "SOC219H5",
+                            "SOC275H5",
+                            "WGS200Y5"
+                        ],
+                        "3": [
+                            "ANT331H5",
+                            "ANT335H5",
+                            "CCT340H5",
+                            "CLA319H5",
+                            "DRE366H5",
+                            "ENG307H5",
+                            "FRE391H5",
+                            "GGR313H5",
+                            "HIS308H5",
+                            "HIS310H5",
+                            "HIS314H5",
+                            "HIS326Y5",
+                            "HIS374H5",
+                            "HIS386H5",
+                            "ITA392H5",
+                            "JAL355H5",
+                            "PHL367H5",
+                            "POL368Y5",
+                            "PSY317H5",
+                            "PSY354H5",
+                            "RLG314H5",
+                            "SOC347H5",
+                            "SOC352H5",
+                            "SOC359H5",
+                            "SOC362H5",
+                            "SOC380H5"
+                        ],
+                        "4": [
+                            "CIN408H5",
+                            "FAH435H5",
+                            "HIS441H5",
+                            "HIS454H5",
+                            "RLG449H5",
+                            "RLG462H5",
+                            "SOC413H5",
+                            "SOC425H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Women and Gender Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1443",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "WGS101H5"
+                        ],
+                        "2": [
+                            "ANT211H5",
+                            "ENG269H5",
+                            "ENG275H5",
+                            "PHL243H5",
+                            "PHL267H5",
+                            "SOC219H5",
+                            "SOC275H5",
+                            "WGS200Y5"
+                        ],
+                        "3": [
+                            "ANT331H5",
+                            "ANT335H5",
+                            "CCT340H5",
+                            "CLA319H5",
+                            "DRE366H5",
+                            "ENG307H5",
+                            "FRE391H5",
+                            "GGR313H5",
+                            "HIS308H5",
+                            "HIS310H5",
+                            "HIS314H5",
+                            "HIS326Y5",
+                            "HIS374H5",
+                            "HIS386H5",
+                            "ITA392H5",
+                            "JAL355H5",
+                            "PHL367H5",
+                            "POL368Y5",
+                            "PSY317H5",
+                            "PSY354H5",
+                            "RLG314H5",
+                            "SOC347H5",
+                            "SOC352H5",
+                            "SOC359H5",
+                            "SOC362H5",
+                            "SOC380H5"
+                        ],
+                        "4": [
+                            "CIN408H5",
+                            "FAH435H5",
+                            "HIS441H5",
+                            "HIS454H5",
+                            "RLG449H5",
+                            "RLG462H5",
+                            "SOC413H5",
+                            "SOC425H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Classical Civilization",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "Classical Civilization (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0382",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "CLA101H5"
+                        ],
+                        "2": [
+                            "CLA230H5",
+                            "CLA231H5",
+                            "CLA233H5",
+                            "CLA237H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Classical Civilization (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0382",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "CLA101H5"
+                        ],
+                        "2": [
+                            "CLA230H5",
+                            "CLA231H5",
+                            "CLA233H5",
+                            "CLA237H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "History (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE0652",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "HIS101H5"
+                        ],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "History (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0652",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "HIS101H5"
+                        ],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "History (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0652",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "HIS101H5"
+                        ],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        }
+    ]
+}

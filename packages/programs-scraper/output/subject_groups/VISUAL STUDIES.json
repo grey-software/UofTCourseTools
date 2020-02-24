@@ -1,0 +1,300 @@
+{
+    "name": "VISUAL STUDIES",
+    "group": [
+        {
+            "name": "Art & Art History",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "Students must take at least 2.0 but no more than 2.5 FAH credits at the 200 level. VCC205H5, VCC207H5, VCC209H5 and VCC236H5 do not satisfy FAH 200-level requirements. No St. George courses may be substituted for the 200-level FAH requirements. However, U of T Mississauga students may take 0.5 credits at the 200 level in FAH at St. George in an area not covered by U of T Mississauga's offerings (i.e., one of the following courses: FAH248H1, FAH260H1, FAH262H1, FAH270H1, FAH272H1).",
+                "At least one 200-level H course in FAH must be taken in each of the following three areas: Ancient & Medieval; 15th-18th centuries; 19th-21st centuries. See the departmental website www.utm.utoronto.ca/dvs for the distribution of courses by area.",
+                "Of the required 4.0 300/400-level credits, a minimum of 1.0 must be in FAH/VCC/VST and 0.5 at the 400-level in FAS.",
+                "As studio space is limited in the 100-level and 200-level FAS courses, priority will be given during the first registration period to students enrolled in the Art & Art History Major/Specialist, Art History Major/Specialist, CCIT Major, VCC Specialist, and to newly-admitted students who indicated the Art & Art History code on their application. Students committed to the program should make sure that they are officially registered in the program as soon as possible.",
+                "All 300-level and 400-level FAS courses are now to be enrolled in on ACORN. Students are required to have completed 1.5 FAH/VCC credits.",
+                "It is recommended that students take at least one of the following \"practicum\" courses: FAH451H5, FAS453H5, FAS454H5, or FAS455H5.",
+                "*FAS232H5, FAS236H5, and FAS248H5 are open to first-year students.",
+                "No more than a combination of 17.0 FAH and FAS credits may be taken.",
+                "Students enrolling in any FAS course will be required to pay a fee of $60-$120 per half credit/$120-$240 per full credit.  These charges will automatically be added to your University of Toronto student account receivable.  This fee covers consumable materials used in studio as well as take-away materials provided to students."
+            ],
+            "programs": [
+                {
+                    "name": "Art and Art History (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE0714",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FAH101H5",
+                            "FAS143H5",
+                            "FAS145H5",
+                            "FAS147H5",
+                            "VCC101H5"
+                        ],
+                        "2": [
+                            "FAS232H5",
+                            "FAS236H5",
+                            "FAS248H5",
+                            "VCC205H5",
+                            "VCC207H5",
+                            "VCC209H5",
+                            "VCC236H5"
+                        ],
+                        "3": [],
+                        "4": [
+                            "FAH451H5",
+                            "FAS453H5",
+                            "FAS454H5",
+                            "FAS455H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Art and Art History (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0714",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FAH101H5",
+                            "FAS143H5",
+                            "FAS145H5",
+                            "FAS147H5"
+                        ],
+                        "2": [
+                            "FAS232H5",
+                            "FAS236H5",
+                            "FAS248H5",
+                            "VCC205H5",
+                            "VCC207H5",
+                            "VCC209H5",
+                            "VCC236H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Art History",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "2.0 credits from each of the following four areas are required: Ancient & Medieval; 15th-18th centuries; 19th-21st centuries; Visual Culture and Theory. Some courses may satisfy more than one of the distribution requirements. See the departmental website www.utm.utoronto.ca/dvs for the distribution of courses by area.",
+                "No more than 4.0 FAH credits may be taken at the 200 level. VCC205H5, VCC207H5, VCC209H5 and VCC236H5 do not satisfy FAH 200-level requirements. 0.5 credit at the 200 level in FAH may be taken at St. George in an area not covered by U of T Mississauga's offerings (i.e., one of the following courses: FAH248H1, FAH260H1, FAH262H1, FAH270H1, FAH272H1).",
+                "Courses which have significant Art History or Visual Culture content in other programs such as CCIT, Cinema Studies, Philosophy, Drama, English, History, East Asian Studies, and Near and Middle Eastern Civilizations, may be substituted for up to 1.0 FAH/VCC credit only with permission, prior to enrolment, from the program director. For possible substitutes see the undergraduate counsellor.",
+                "RECOMMENDED LANGUAGE STUDY: Students wishing to pursue graduate studies in Art History must acquire a basic reading knowledge of at least two languages. A minimum of 2.0 in one language, or 1.0 in two languages (total 2.0) is recommended. German, French, and Italian are recommended.",
+                "No more than a total of 16.0 FAH credits may be taken."
+            ],
+            "programs": [
+                {
+                    "name": "Art History (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE0615",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FAH101H5",
+                            "VCC101H5"
+                        ],
+                        "2": [
+                            "VCC205H5",
+                            "VCC207H5",
+                            "VCC209H5",
+                            "VCC236H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Art History (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0615",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FAH101H5",
+                            "VCC101H5"
+                        ],
+                        "2": [
+                            "VCC205H5",
+                            "VCC207H5",
+                            "VCC209H5",
+                            "VCC236H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Art History (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0615",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FAH101H5"
+                        ],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Visual Culture",
+            "degrees": [],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "",
+                    "level": "Minor",
+                    "code": "ERMIN1210",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "VCC101H5"
+                        ],
+                        "2": [
+                            "ANT208H5",
+                            "CLA235H5",
+                            "ENG235H5"
+                        ],
+                        "3": [],
+                        "4": [
+                            "HIS494H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Visual Culture & Communication",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "Minimum of 4.0 credits to include CCT109H5, CCT110H5, FAH101H5, and VCC101H5.",
+                "Minimum Cumulative Grade Point Average (CGPA) determined annually. It is generally between 2.7 and 3.0 and never lower than 2.2.",
+                "Minimum 65% average among CCT109H5, CCT110H5, FAH101H5, and VCC101H5 with at least 60% in each course."
+            ],
+            "programs": [
+                {
+                    "name": "Visual Culture and Communication (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1200",
+                    "type": "Type 3",
+                    "notes": [
+                        "Minimum of 4.0 credits to include CCT109H5, CCT110H5, FAH101H5, and VCC101H5.",
+                        "Minimum Cumulative Grade Point Average (CGPA) determined annually. It is generally between 2.7 and 3.0 and never lower than 2.2.",
+                        "Minimum 65% average among CCT109H5, CCT110H5, FAH101H5, and VCC101H5 with at least 60% in each course."
+                    ],
+                    "courses": {
+                        "1": [
+                            "CCT109H5",
+                            "CCT110H5",
+                            "CIN101H5",
+                            "FAH101H5",
+                            "VCC101H5"
+                        ],
+                        "2": [
+                            "CCT200H5",
+                            "CCT204H5",
+                            "CCT206H5",
+                            "CCT210H5",
+                            "CCT250H5",
+                            "CCT270H5",
+                            "FAS246H5",
+                            "VCC205H5",
+                            "VCC236H5",
+                            "VCC290H5"
+                        ],
+                        "3": [
+                            "CCT336H5",
+                            "CCT351H5",
+                            "CCT352H5",
+                            "CCT353H5",
+                            "CCT357H5",
+                            "FAS346Y5",
+                            "FAS347Y5"
+                        ],
+                        "4": [
+                            "CCT434H5",
+                            "CCT452H5",
+                            "VCC400H5",
+                            "VST410H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cinema Studies",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "Cinema Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0797",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "CIN101H5"
+                        ],
+                        "2": [
+                            "CIN203H5",
+                            "CIN204H5",
+                            "CIN205H5",
+                            "CIN207H5",
+                            "CIN215H5",
+                            "ITA242H5",
+                            "ITA243H5",
+                            "ITA246H5",
+                            "ITA247H5",
+                            "PHL221H5",
+                            "SPA275H5",
+                            "VCC205H5"
+                        ],
+                        "3": [
+                            "CIN301H5",
+                            "CIN303H5",
+                            "CIN304H5",
+                            "CIN306H5",
+                            "CIN307H5",
+                            "DRE350H5",
+                            "FRE393H5",
+                            "FRE397H5",
+                            "GER353H5",
+                            "GER354H5",
+                            "ITA307H5",
+                            "ITA309H5",
+                            "ITA313H5",
+                            "ITA342H5",
+                            "ITA343H5",
+                            "RLG331H5"
+                        ],
+                        "4": [
+                            "CIN401H5",
+                            "CIN402H5",
+                            "VST410H5"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

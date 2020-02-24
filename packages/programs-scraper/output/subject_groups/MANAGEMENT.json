@@ -1,0 +1,567 @@
+{
+    "name": "MANAGEMENT",
+    "group": [
+        {
+            "name": "Management",
+            "degrees": [
+                "HBA",
+                "BBA"
+            ],
+            "notes": [
+                "Commerce Programs [BCom and HBA/HBSc (Major)] The Commerce programs combine economics and the various sub-disciplines of business and management enabling students to develop analytical skills and gain knowledge of institutions. This background is useful for solving problems and making decisions in business and government environments. Commerce students have the opportunity to participate in an international exchange program during third year.  Several Specialist programs are offered within Commerce: Accounting, Finance, Marketing. The Specialist Program in Accounting allows students to complete the prerequisite studies for professional accounting qualifications (e.g. CPA) within the BCom. Commerce graduates frequently become professional accountants, economists, actuaries, financial analysts, marketing analysts, managers of firms and government, or proprietors of small businesses. Some commerce students choose to do post-graduate studies; law schools and MBA programs have been favoured by recent graduates. The Management Programs (BBA) The Management programs prepares students to become effective members of organizations. Drawing on a balanced offering of rigorous intellectual frameworks from the social sciences, it covers the nature and working of organizations, and managerial functions. The programs provide students with a good understanding of the major aspects of management and helps them to acquire an integrated set of management skills. The Human Resource Management (HRM) Specialist provides students with a good grounding in the management disciplines and a specialized education in HRM. It will allow students to complete the prerequisites for the CHRP designation. The Management Major Program (HBA/HBSc) The Management Major program leads to either an Honours BA or an Honours BSc degree, depending on your second discipline. For example, Chemistry and Management will prepare you for a career in the chemical industry; English and Management for publishing, Psychology and Management or Sociology and Management for a wide range of careers in business or commerce, etc.",
+                "The Management Programs (BBA) The Management programs prepares students to become effective members of organizations. Drawing on a balanced offering of rigorous intellectual frameworks from the social sciences, it covers the nature and working of organizations, and managerial functions. The programs provide students with a good understanding of the major aspects of management and helps them to acquire an integrated set of management skills. The Human Resource Management (HRM) Specialist provides students with a good grounding in the management disciplines and a specialized education in HRM. It will allow students to complete the prerequisites for the CHRP designation. The Management Major Program (HBA/HBSc) The Management Major program leads to either an Honours BA or an Honours BSc degree, depending on your second discipline. For example, Chemistry and Management will prepare you for a career in the chemical industry; English and Management for publishing, Psychology and Management or Sociology and Management for a wide range of careers in business or commerce, etc.",
+                "The Management Major Program (HBA/HBSc) The Management Major program leads to either an Honours BA or an Honours BSc degree, depending on your second discipline. For example, Chemistry and Management will prepare you for a career in the chemical industry; English and Management for publishing, Psychology and Management or Sociology and Management for a wide range of careers in business or commerce, etc."
+            ],
+            "programs": [
+                {
+                    "name": "Human Resource Management",
+                    "level": "Specialist",
+                    "code": "ERSPE1882",
+                    "type": "Type 3",
+                    "notes": [
+                        "Prerequisite Courses: ECO100Y5 (63%), MGM101H5 (63%), MGM102H5 (63%), MAT133Y5/MAT135H5, MAT136H5/ MAT135Y5 (63%) in a minimum of 4.0 credits.",
+                        "Cumulative Grade Point Average (CGPA): Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.",
+                        "Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "The CGPA must meet the cut off in a minimum of 4.0 credits taken at U of T. The CGPA is based on courses taken for credit.",
+                        "The combined CGPA of all courses taken at another institution plus U of T courses must meet the minimum cut off for the year in which you are applying."
+                    ],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGM102H5",
+                            "MGT120H5",
+                            "SOC100H5"
+                        ],
+                        "2": [
+                            "ECO200Y5",
+                            "ECO205Y5",
+                            "ECO261H5",
+                            "MGM221H5",
+                            "MGM222H5",
+                            "MGM230H5",
+                            "MGT252H5",
+                            "MGT260H5",
+                            "MGT262H5",
+                            "SOC227H5",
+                            "SOC236H5",
+                            "SOC263H5",
+                            "STA218H5",
+                            "WGS210H5"
+                        ],
+                        "3": [
+                            "ANT350H5",
+                            "HIS313H5",
+                            "HIS314H5",
+                            "MGM301H5",
+                            "MGM360H5",
+                            "MGM364H5",
+                            "MGM365H5",
+                            "MGM390H5",
+                            "MGT363H5",
+                            "MGT371H5",
+                            "SOC361H5"
+                        ],
+                        "4": [
+                            "MGM400H5",
+                            "MGM464H5",
+                            "MGM465H5",
+                            "MGM466H5",
+                            "MGT461H5",
+                            "MGT463H5",
+                            "MGT467H5",
+                            "MGT480H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Management",
+                    "level": "Specialist",
+                    "code": "ERSPE2431",
+                    "type": "Type 3",
+                    "notes": [
+                        "Prerequisite Courses: ECO100Y5 (63%), MGM101H5 (63%), MGM102H5 (63%), MAT133Y5/ MAT135H5, MAT136H5 /MAT135Y5 (63%) in a minimum of 4.0 credits.Cumulative Grade Point Average (CGPA) Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "Cumulative Grade Point Average (CGPA) Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.",
+                        "Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "The CGPA must meet the cut off in a minimum of 4.0 credits taken at U of T.  The CGPA is based on courses taken for credit.",
+                        "The combined CGPA of all courses taken at another institution plus U of T courses must meet the minimum cut off for the year in which you are applying."
+                    ],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGM102H5",
+                            "MGT120H5"
+                        ],
+                        "2": [
+                            "ECO200Y5",
+                            "ECO205Y5",
+                            "MGM221H5",
+                            "MGM222H5",
+                            "MGM230H5",
+                            "MGT252H5",
+                            "MGT260H5",
+                            "MGT262H5",
+                            "STA218H5"
+                        ],
+                        "3": [
+                            "MGM301H5",
+                            "MGM320H5",
+                            "MGM332H5",
+                            "MGM390H5",
+                            "MGT353H5",
+                            "MGT363H5",
+                            "MGT371H5",
+                            "MGT374H5"
+                        ],
+                        "4": [
+                            "MGM400H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Management",
+                    "level": "Major",
+                    "code": "ERMAJ2431",
+                    "type": "Type 3",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGM102H5",
+                            "MGT120H5"
+                        ],
+                        "2": [
+                            "MGM221H5",
+                            "MGM222H5",
+                            "MGM230H5",
+                            "MGT252H5",
+                            "MGT262H5",
+                            "STA218H5"
+                        ],
+                        "3": [
+                            "MGM301H5",
+                            "MGM390H5",
+                            "MGT371H5"
+                        ],
+                        "4": [
+                            "MGM400H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Commerce",
+            "degrees": [
+                "HBA",
+                "BCom"
+            ],
+            "notes": [
+                "The program requirements in effect at the time the student is admitted to the program must be met in order to fulfill the Degree requirements.",
+                "Students interested in combining a BCom degree with an Economics Specialist Program should refer to the appropriate Program of Study for details.",
+                "Students are encouraged to take one course towards the Distribution Requirement (see Degree Requirements) in First Year.",
+                "During the Fall-Winter session, Commerce students must take ECO204Y5 and ECO209Y5. They will not have access to ECO200Y5 or ECO202Y5."
+            ],
+            "programs": [
+                {
+                    "name": "Commerce (BCom)",
+                    "level": "Specialist",
+                    "code": "ERSPE2273",
+                    "type": "Type 3",
+                    "notes": [
+                        "Prerequisite Courses: ECO100Y5 (63%), MGM101H5 (63%), MGT120H5 (63%), MAT133Y5 (63%)/ (MAT135H5, MAT136H5) (63%)/MAT135Y5 (63%) in a minimum of 4.0 credits.",
+                        "Cumulative Grade Point Average (CGPA): Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.",
+                        "Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "The CGPA must meet the cut off in a minimum of 4.0 credits taken at U of T.",
+                        "The combined CGPA of all courses taken at another institution plus U of T courses must meet the minimum cut off for the year in which you are applying."
+                    ],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGT120H5"
+                        ],
+                        "2": [
+                            "ANT204H5",
+                            "CLA201H5",
+                            "ECO200Y5",
+                            "ECO202Y5",
+                            "ECO204Y5",
+                            "ECO206Y5",
+                            "ECO208Y5",
+                            "ECO209Y5",
+                            "ECO220Y5",
+                            "ECO227Y5",
+                            "MGT220H5",
+                            "MGT223H5",
+                            "MGT252H5",
+                            "MGT262H5",
+                            "PHL245H5",
+                            "PHL246H5",
+                            "PHL247H5",
+                            "STA256H5",
+                            "STA258H5",
+                            "STA260H5"
+                        ],
+                        "3": [
+                            "ECO320Y5",
+                            "ECO322Y5",
+                            "ECO323Y5",
+                            "ECO336Y5",
+                            "ECO343H5",
+                            "ECO344H5",
+                            "ECO373Y5",
+                            "ECO399Y5",
+                            "MGT338H5",
+                            "MGT339H5",
+                            "MGT353H5",
+                            "MGT363H5",
+                            "MGT371H5",
+                            "MGT374H5",
+                            "MGT393H5",
+                            "PHL344H5",
+                            "PHL345H5",
+                            "PHL346H5",
+                            "PHL347H5",
+                            "SOC350H5"
+                        ],
+                        "4": [
+                            "ECO406H5",
+                            "ECO411H5",
+                            "ECO435H5",
+                            "ECO439Y5",
+                            "ECO456H5",
+                            "ECO463H5",
+                            "ECO475H5",
+                            "MGT422H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Commerce:  Accounting (BCom)",
+                    "level": "Specialist",
+                    "code": "ERSPE1704",
+                    "type": "Type 3",
+                    "notes": [
+                        "Prerequisite Courses: ECO100Y5 (63%), MGM101H5 (63%), MGT120H5 (63%), MAT133Y5 (63%)/ (MAT135H5, MAT136H5) (63%)/MAT135Y5 (63%) in a minimum of 4.0 credits.",
+                        "Cumulative Grade Point Average (CGPA): Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.",
+                        "Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "The CGPA must meet the cut off in a minimum of 4.0 credits taken at U of T.",
+                        "The combined CGPA of all courses taken at another institution plus U of T courses must meet the minimum cut off for the year in which you are applying."
+                    ],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGT120H5"
+                        ],
+                        "2": [
+                            "ANT204H5",
+                            "CLA201H5",
+                            "ECO200Y5",
+                            "ECO202Y5",
+                            "ECO204Y5",
+                            "ECO206Y5",
+                            "ECO208Y5",
+                            "ECO209Y5",
+                            "ECO220Y5",
+                            "ECO227Y5",
+                            "MGT220H5",
+                            "MGT223H5",
+                            "MGT224H5",
+                            "PHL245H5",
+                            "PHL246H5",
+                            "PHL247H5",
+                            "STA256H5",
+                            "STA258H5",
+                            "STA260H5"
+                        ],
+                        "3": [
+                            "ECO320Y5",
+                            "ECO322Y5",
+                            "ECO323Y5",
+                            "ECO336Y5",
+                            "ECO343H5",
+                            "ECO344H5",
+                            "ECO373Y5",
+                            "ECO399Y5",
+                            "MGT321H5",
+                            "MGT322H5",
+                            "MGT323H5",
+                            "MGT338H5",
+                            "MGT339H5",
+                            "MGT393H5",
+                            "PHL344H5",
+                            "PHL345H5",
+                            "PHL346H5",
+                            "PHL347H5",
+                            "SOC350H5"
+                        ],
+                        "4": [
+                            "ECO406H5",
+                            "ECO411H5",
+                            "ECO435H5",
+                            "ECO439Y5",
+                            "ECO456H5",
+                            "ECO463H5",
+                            "ECO475H5",
+                            "MGT420H5",
+                            "MGT421H5",
+                            "MGT422H5",
+                            "MGT423H5",
+                            "MGT426H5",
+                            "MGT428H5",
+                            "MGT429H5",
+                            "MGT437H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Commerce: Finance (BCom)",
+                    "level": "Specialist",
+                    "code": "ERSPE2034",
+                    "type": "Type 3",
+                    "notes": [
+                        "Prerequisite Courses: ECO100Y5 (63%), MGM101H5 (63%), MGT120H5 (63%), MAT133Y5 (63%)/ (MAT135H5, MAT136H5) (63%)/MAT135Y5 (63%) in a minimum of 4.0 credits.",
+                        "Cumulative Grade Point Average (CGPA): Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.",
+                        "Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "The CGPA must meet the cut off in a minimum of 4.0 credits taken at U of T.",
+                        "The combined CGPA of all courses taken at another institution plus U of T courses must meet the minimum cut off for the year in which you are applying."
+                    ],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGT120H5"
+                        ],
+                        "2": [
+                            "ANT204H5",
+                            "CLA201H5",
+                            "ECO200Y5",
+                            "ECO202Y5",
+                            "ECO204Y5",
+                            "ECO206Y5",
+                            "ECO208Y5",
+                            "ECO209Y5",
+                            "ECO220Y5",
+                            "ECO227Y5",
+                            "MGT220H5",
+                            "MGT223H5",
+                            "MGT252H5",
+                            "MGT262H5",
+                            "PHL245H5",
+                            "PHL246H5",
+                            "PHL247H5"
+                        ],
+                        "3": [
+                            "ECO320Y5",
+                            "ECO322Y5",
+                            "ECO323Y5",
+                            "ECO336Y5",
+                            "ECO343H5",
+                            "ECO344H5",
+                            "ECO349H5",
+                            "ECO365H5",
+                            "ECO373Y5",
+                            "ECO375H5",
+                            "ECO399Y5",
+                            "MGT330H5",
+                            "MGT338H5",
+                            "MGT339H5",
+                            "MGT353H5",
+                            "MGT363H5",
+                            "MGT371H5",
+                            "MGT374H5",
+                            "MGT393H5",
+                            "PHL344H5",
+                            "PHL345H5",
+                            "PHL346H5",
+                            "PHL347H5",
+                            "SOC350H5"
+                        ],
+                        "4": [
+                            "ECO406H5",
+                            "ECO411H5",
+                            "ECO435H5",
+                            "ECO439Y5",
+                            "ECO456H5",
+                            "ECO460H5",
+                            "ECO461H5",
+                            "ECO463H5",
+                            "ECO475H5",
+                            "MGT430H5",
+                            "MGT431H5",
+                            "MGT433H5",
+                            "MGT434H5",
+                            "MGT435H5",
+                            "MGT438H5",
+                            "MGT439H5",
+                            "MGT440H5",
+                            "MGT441H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Commerce: Marketing (BCom)",
+                    "level": "Specialist",
+                    "code": "ERSPE2380",
+                    "type": "Type 3",
+                    "notes": [
+                        "Prerequisite Courses: ECO100Y5 (63%), MGM101H5 (63%), MGT120H5 (63%), MAT133Y5 (63%)/ (MAT135H5, MAT136H5) (63%)/MAT135Y5 (63%) in a minimum of 4.0 credits.",
+                        "Cumulative Grade Point Average (CGPA): Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.",
+                        "Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "The CGPA must meet the cut off in a minimum of 4.0 credits taken at U of T.",
+                        "The combined CGPA of all courses taken at another institution plus U of T courses must meet the minimum cut off for the year in which you are applying."
+                    ],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGT120H5"
+                        ],
+                        "2": [
+                            "ANT204H5",
+                            "CCT260H5",
+                            "CLA201H5",
+                            "ECO200Y5",
+                            "ECO202Y5",
+                            "ECO204Y5",
+                            "ECO206Y5",
+                            "ECO208Y5",
+                            "ECO209Y5",
+                            "ECO220Y5",
+                            "ECO227Y5",
+                            "GGR252H5",
+                            "MGT220H5",
+                            "MGT223H5",
+                            "MGT252H5",
+                            "MGT262H5",
+                            "PHL245H5",
+                            "PHL246H5",
+                            "PHL247H5",
+                            "STA256H5",
+                            "STA258H5",
+                            "STA260H5"
+                        ],
+                        "3": [
+                            "CCT302H5",
+                            "CCT356H5",
+                            "ECO320Y5",
+                            "ECO322Y5",
+                            "ECO323Y5",
+                            "ECO336Y5",
+                            "ECO343H5",
+                            "ECO344H5",
+                            "ECO373Y5",
+                            "ECO399Y5",
+                            "MGT338H5",
+                            "MGT339H5",
+                            "MGT353H5",
+                            "MGT354H5",
+                            "MGT355H5",
+                            "MGT363H5",
+                            "MGT371H5",
+                            "MGT374H5",
+                            "MGT393H5",
+                            "PHL344H5",
+                            "PHL345H5",
+                            "PHL346H5",
+                            "PHL347H5",
+                            "SOC350H5"
+                        ],
+                        "4": [
+                            "CCT456H5",
+                            "ECO406H5",
+                            "ECO411H5",
+                            "ECO435H5",
+                            "ECO439Y5",
+                            "ECO456H5",
+                            "ECO463H5",
+                            "ECO475H5",
+                            "MGT452H5",
+                            "MGT453H5",
+                            "MGT455H5",
+                            "MGT456H5",
+                            "MGT457H5",
+                            "MGT458H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Commerce (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1111",
+                    "type": "Type 3",
+                    "notes": [
+                        "Prerequisite Courses: ECO100Y5 (63%), MGM101H5 (63%), MGT120H5 (63%), MAT133Y5 (63%)/ (MAT135H5, MAT136H5) (63%)/MAT135Y5 (63%) in a minimum of 4.0 credits.",
+                        "Cumulative Grade Point Average (CGPA): Each year the Management Department sets a minimum required CGPA. This will vary from year to year and is based, in part, on supply and demand.",
+                        "Courses with a grade of CR/NCR will not count as part of the 4.0 credits required for program entry.",
+                        "The CGPA must meet the cut off in a minimum of 4.0 credits taken at U of T.",
+                        "The combined CGPA of all courses taken at another institution plus U of T courses must meet the minimum cut off for the year in which you are applying."
+                    ],
+                    "courses": {
+                        "1": [
+                            "ECO100Y5",
+                            "MAT133Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MGM101H5",
+                            "MGT120H5"
+                        ],
+                        "2": [
+                            "ECO220Y5",
+                            "ECO227Y5",
+                            "MGT220H5",
+                            "MGT223H5",
+                            "MGT252H5",
+                            "STA256H5",
+                            "STA258H5",
+                            "STA260H5"
+                        ],
+                        "3": [
+                            "MGT330H5",
+                            "MGT338H5",
+                            "MGT339H5",
+                            "MGT363H5",
+                            "MGT371H5",
+                            "MGT374H5",
+                            "MGT393H5"
+                        ],
+                        "4": []
+                    }
+                }
+            ]
+        }
+    ]
+}

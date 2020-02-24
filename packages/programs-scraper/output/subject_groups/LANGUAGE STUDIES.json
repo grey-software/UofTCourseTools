@@ -1,0 +1,765 @@
+{
+    "name": "LANGUAGE STUDIES",
+    "group": [
+        {
+            "name": "Italian",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "FRE280Y5 (or equivalent), FRE225Y5, FRE240Y5 (or FRE240H5 and FRE241H5), FRE272Y5. Note: FRE225Y5 MUST be completed in the second year OR prior to enrolling in 300/400 level courses in Language Teaching and Learning.",
+                "FRE382H5, FRE383H5.",
+                "1.0 credit to be chosen among the FRE courses in Teaching and Learning (FRE325H5, 345H5, 352H5, 353H5, 355H5)"
+            ],
+            "programs": [
+                {
+                    "name": "Language Teaching and Learning: French and Italian (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1092",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FRE180H5",
+                            "FRE181H5",
+                            "ITA100Y5",
+                            "ITA101Y5",
+                            "ITA102H5",
+                            "ITA103H5"
+                        ],
+                        "2": [
+                            "FRE225Y5",
+                            "FRE240H5",
+                            "FRE240Y5",
+                            "FRE241H5",
+                            "FRE272Y5",
+                            "FRE280Y5",
+                            "ITA200Y5",
+                            "ITA201Y5",
+                            "ITA219Y5",
+                            "ITA221H5",
+                            "ITA222H5",
+                            "ITA227H5",
+                            "ITA231H5",
+                            "ITA232H5",
+                            "ITA235H5",
+                            "ITA237H5",
+                            "ITA238H5",
+                            "ITA242H5",
+                            "ITA246H5",
+                            "ITA247H5",
+                            "ITA255Y5",
+                            "ITA272H5"
+                        ],
+                        "3": [
+                            "FRE325H5",
+                            "FRE382H5",
+                            "FRE383H5",
+                            "ITA307H5",
+                            "ITA309H5",
+                            "ITA311H5",
+                            "ITA313H5",
+                            "ITA315Y5",
+                            "ITA342H5",
+                            "ITA343H5",
+                            "ITA350Y5",
+                            "ITA351H5",
+                            "ITA352H5",
+                            "ITA370Y5",
+                            "ITA373H5",
+                            "ITA374H5",
+                            "ITA375H5",
+                            "ITA376H5",
+                            "ITA388H5",
+                            "ITA390H5",
+                            "ITA391H5",
+                            "ITA392H5",
+                            "LTL380H5"
+                        ],
+                        "4": [
+                            "ITA400Y5",
+                            "ITA413Y5",
+                            "ITA420Y5",
+                            "ITA436Y5",
+                            "ITA437Y5",
+                            "ITA450H5",
+                            "ITA451H5",
+                            "LTL456H5",
+                            "LTL487H5",
+                            "LTL488H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Italian (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE2524",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ITA100Y5",
+                            "ITA101Y5"
+                        ],
+                        "2": [
+                            "ITA200Y5",
+                            "ITA201Y5"
+                        ],
+                        "3": [
+                            "ITA350Y5"
+                        ],
+                        "4": [
+                            "ITA420Y5",
+                            "ITA437Y5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Language Teaching and Learning: Italian (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1249",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ITA100Y5",
+                            "ITA101Y5"
+                        ],
+                        "2": [
+                            "ITA200Y5",
+                            "ITA201Y5"
+                        ],
+                        "3": [
+                            "ITA350Y5",
+                            "LTL380H5"
+                        ],
+                        "4": [
+                            "ITA437Y5",
+                            "LTL456H5",
+                            "LTL487H5",
+                            "LTL488H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Italian (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ2524",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ITA100Y5",
+                            "ITA101Y5"
+                        ],
+                        "2": [
+                            "ITA200Y5",
+                            "ITA201Y5"
+                        ],
+                        "3": [
+                            "ITA350Y5"
+                        ],
+                        "4": [
+                            "ITA420Y5",
+                            "ITA437Y5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Italian (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN2524",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ITA100Y5",
+                            "ITA101Y5",
+                            "ITA102H5",
+                            "ITA103H5"
+                        ],
+                        "2": [
+                            "ITA200Y5",
+                            "ITA201Y5",
+                            "ITA219Y5",
+                            "ITA221H5",
+                            "ITA222H5",
+                            "ITA227H5",
+                            "ITA231H5",
+                            "ITA232H5",
+                            "ITA235H5",
+                            "ITA237H5",
+                            "ITA238H5",
+                            "ITA242H5",
+                            "ITA246H5",
+                            "ITA247H5",
+                            "ITA255Y5",
+                            "ITA272H5"
+                        ],
+                        "3": [
+                            "ITA307H5",
+                            "ITA309H5",
+                            "ITA311H5",
+                            "ITA313H5",
+                            "ITA315Y5",
+                            "ITA342H5",
+                            "ITA343H5",
+                            "ITA350Y5",
+                            "ITA351H5",
+                            "ITA352H5",
+                            "ITA370Y5",
+                            "ITA373H5",
+                            "ITA374H5",
+                            "ITA375H5",
+                            "ITA376H5",
+                            "ITA388H5",
+                            "ITA390H5",
+                            "ITA391H5",
+                            "ITA392H5"
+                        ],
+                        "4": [
+                            "ITA400Y5",
+                            "ITA413Y5",
+                            "ITA420Y5",
+                            "ITA436Y5",
+                            "ITA437Y5",
+                            "ITA450H5",
+                            "ITA451H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Language Studies",
+            "degrees": [],
+            "notes": [],
+            "programs": []
+        },
+        {
+            "name": "French & Italian",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "FRE240Y5 (or FRE240H5 and FRE241H5)",
+                "FRE280Y5, 382H5, 383H5",
+                "1.0 credit from French Linguistics",
+                "1.0 credit from French Literary and Cultural Studies",
+                "1.0 additional credit in French linguistics or literature"
+            ],
+            "programs": [
+                {
+                    "name": "French and Italian (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE0815",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FRE180H5",
+                            "FRE181H5",
+                            "ITA100Y5"
+                        ],
+                        "2": [
+                            "FRE240H5",
+                            "FRE240Y5",
+                            "FRE241H5",
+                            "FRE280Y5",
+                            "ITA200Y5",
+                            "ITA231H5",
+                            "ITA232H5",
+                            "ITA237H5"
+                        ],
+                        "3": [
+                            "FRE312H5",
+                            "FRE319H5",
+                            "FRE320H5",
+                            "FRE325H5",
+                            "FRE356H5",
+                            "FRE357H5",
+                            "FRE363H5",
+                            "FRE364H5",
+                            "FRE365H5",
+                            "FRE372H5",
+                            "FRE373H5",
+                            "FRE391H5",
+                            "FRE393H5",
+                            "FRE397H5",
+                            "ITA350Y5",
+                            "LTL380H5"
+                        ],
+                        "4": [
+                            "FRE445H5",
+                            "FRE446H5",
+                            "FRE474H5",
+                            "ITA420Y5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Language Teaching & Learning: French & Italian",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "FRE280Y5 (or equivalent), FRE225Y5, FRE240Y5 (or FRE240H5 and FRE241H5), FRE272Y5. Note: FRE225Y5 MUST be completed in the second year OR prior to enrolling in 300/400 level courses in Language Teaching and Learning.",
+                "FRE382H5, FRE383H5.",
+                "1.0 credit to be chosen among the FRE courses in Teaching and Learning (FRE325H5, 345H5, 352H5, 353H5, 355H5)"
+            ],
+            "programs": [
+                {
+                    "name": "Language Teaching and Learning: French and Italian (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1092",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FRE180H5",
+                            "FRE181H5"
+                        ],
+                        "2": [
+                            "FRE225Y5",
+                            "FRE240H5",
+                            "FRE240Y5",
+                            "FRE241H5",
+                            "FRE272Y5",
+                            "FRE280Y5",
+                            "ITA200Y5",
+                            "ITA201Y5"
+                        ],
+                        "3": [
+                            "FRE325H5",
+                            "FRE382H5",
+                            "FRE383H5",
+                            "ITA350Y5"
+                        ],
+                        "4": [
+                            "ITA437Y5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cinema Studies",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "Cinema Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0797",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "CIN101H5"
+                        ],
+                        "2": [
+                            "CIN203H5",
+                            "CIN204H5",
+                            "CIN205H5",
+                            "CIN207H5",
+                            "CIN215H5",
+                            "ITA242H5",
+                            "ITA243H5",
+                            "ITA246H5",
+                            "ITA247H5",
+                            "PHL221H5",
+                            "SPA275H5",
+                            "VCC205H5"
+                        ],
+                        "3": [
+                            "CIN301H5",
+                            "CIN303H5",
+                            "CIN304H5",
+                            "CIN306H5",
+                            "CIN307H5",
+                            "DRE350H5",
+                            "FRE393H5",
+                            "FRE397H5",
+                            "GER353H5",
+                            "GER354H5",
+                            "ITA307H5",
+                            "ITA309H5",
+                            "ITA313H5",
+                            "ITA342H5",
+                            "ITA343H5",
+                            "RLG331H5"
+                        ],
+                        "4": [
+                            "CIN401H5",
+                            "CIN402H5",
+                            "VST410H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "French",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "Completion of at least 3.0 courses in the Specialist program and an average of 70% in 2.0 of the 3.0 courses, may entitle a student to participate in third year in the Study Elsewhere Program in France or in another French university..",
+                "The series FSL105H5 to FSL405H5/406H5, which may be taken as part of a Minor program, is intended to provide instruction for students specializing in other disciplines who wish to develop a practical knowledge of French. The series emphasizes self-help beyond the limits of the individual courses.",
+                "Students who are not specializing or majoring in French may be admitted to French courses in Literature and Linguistics, with permission of the Department, if they demonstrate the appropriate level of competence in French. Students seeking admission to FSL205Y5 or FSL305Y5 will be required to provide a high school record as evidence of their level in French. Particularly well-qualified students may, as the result of a language proficiency test, be permitted to enrol in 200-level language courses.",
+                "Courses with the FSL designator cannot be counted towards a Major or Specialist program in French Studies."
+            ],
+            "programs": [
+                {
+                    "name": "Language Teaching and Learning: French and Italian (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1092",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FRE180H5",
+                            "FRE180Y5",
+                            "FRE181H5",
+                            "FSL105H5"
+                        ],
+                        "2": [
+                            "FRE225Y5",
+                            "FRE240H5",
+                            "FRE240Y5",
+                            "FRE241H5",
+                            "FRE272Y5",
+                            "FRE280Y5",
+                            "ITA200Y5",
+                            "ITA201Y5"
+                        ],
+                        "3": [
+                            "FRE312H5",
+                            "FRE325H5",
+                            "FRE342H5",
+                            "FRE372H5",
+                            "FRE373H5",
+                            "FRE380H5",
+                            "FRE382H5",
+                            "FRE383H5",
+                            "FRE388H5",
+                            "ITA350Y5",
+                            "LTL380H5"
+                        ],
+                        "4": [
+                            "FRE442H5",
+                            "FRE454H5",
+                            "FSL466H5",
+                            "ITA437Y5"
+                        ]
+                    }
+                },
+                {
+                    "name": "French Studies (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1295",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FRE180H5",
+                            "FRE181H5"
+                        ],
+                        "2": [
+                            "FRE240H5",
+                            "FRE240Y5",
+                            "FRE241H5",
+                            "FRE272Y5",
+                            "FRE280Y5"
+                        ],
+                        "3": [
+                            "FRE372H5",
+                            "FRE373H5",
+                            "FRE380H5",
+                            "FRE382H5",
+                            "FRE383H5"
+                        ],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Language Teaching and Learning: French (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1056",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FRE180H5",
+                            "FRE181H5"
+                        ],
+                        "2": [
+                            "FRE225Y5",
+                            "FRE240H5",
+                            "FRE240Y5",
+                            "FRE241H5",
+                            "FRE272Y5",
+                            "FRE280Y5"
+                        ],
+                        "3": [
+                            "FRE325H5",
+                            "FRE380H5",
+                            "FRE382H5",
+                            "FRE383H5",
+                            "LTL380H5"
+                        ],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "French Studies (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1295",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "FRE180H5",
+                            "FRE181H5"
+                        ],
+                        "2": [
+                            "FRE240H5",
+                            "FRE240Y5",
+                            "FRE241H5",
+                            "FRE272Y5",
+                            "FRE280Y5"
+                        ],
+                        "3": [
+                            "FRE312H5",
+                            "FRE325H5",
+                            "FRE380H5",
+                            "FRE382H5",
+                            "FRE383H5",
+                            "FRE388H5",
+                            "LTL380H5"
+                        ],
+                        "4": [
+                            "FRE442H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Functional French (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1000",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Francophone Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1054",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "French Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1135",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Linguistics",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "Core requirement: LIN228H5, LIN229H5, LIN231H5/LIN237H5 (or LIN247H5), LIN232H5, LIN256H5/LIN288H5 (or LIN258H5).",
+                "Language requirement: 1.0 credit in a language course. This credit should involve the same language and must be taken either concurrently with LIN101H5 and LIN102H5 (or LIN100Y5) or after their completion. The language must be one other than the student's first language; English language courses are excluded.",
+                "Upper Year requirements: 1.5 credits from the following (choose ONE course from three of the following categories): Method and analysis: LIN318H5 (or LIN368H5)/ LIN409H5/ LIN418H5 (LIN468H5)/ LIN411H5 (or LIN481H5)Phonetics/Phonology: LIN327H5, LIN328H5, LIN329H5, LIN421H5 Syntax and Morphology: LIN332H5 (or LIN331H5)/LIN476H5 (or LIN406H5) Semantics/Pragmatics:  LIN337H5/LIN338H5 Language teaching, learning, and acquisition: LIN385H5 (or LIN356H5)/ LIN380H5/ LIN487H5 (or LIN417H5)/ LIN456H5/ LIN454H5 (or LIN474H5) Language variation, contact, and change: LIN360H5/ LIN366H5/ LIN369H5 (or LIN376H5)/LIN458H5/ LIN460H5/ LIN466H5/ LIN469H5 Computational Linguistics: LIN340H5",
+                "Method and analysis: LIN318H5 (or LIN368H5)/ LIN409H5/ LIN418H5 (LIN468H5)/ LIN411H5 (or LIN481H5)",
+                "Phonetics/Phonology: LIN327H5, LIN328H5, LIN329H5, LIN421H5",
+                "Syntax and Morphology: LIN332H5 (or LIN331H5)/LIN476H5 (or LIN406H5)",
+                "Semantics/Pragmatics:  LIN337H5/LIN338H5",
+                "Language teaching, learning, and acquisition: LIN385H5 (or LIN356H5)/ LIN380H5/ LIN487H5 (or LIN417H5)/ LIN456H5/ LIN454H5 (or LIN474H5)",
+                "Language variation, contact, and change: LIN360H5/ LIN366H5/ LIN369H5 (or LIN376H5)/LIN458H5/ LIN460H5/ LIN466H5/ LIN469H5",
+                "Computational Linguistics: LIN340H5",
+                "The remaining 2.0 credits to be chosen from those courses not yet taken from the list above, or from the following list: ALL 300/400 level LIN/JAL courses, FRE454H5 (or FRE474H5), FRE489H5, ITA437Y5, ITA373H5, LTL488H5, PSY315H5, PSY374H5, PSY376H5, PHL350H5, PHL451H5, SAN392Y5, ANT362H5, ANT358H5."
+            ],
+            "programs": [
+                {
+                    "name": "Linguistic Studies (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1850",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "LIN100Y5",
+                            "LIN101H5",
+                            "LIN102H5"
+                        ],
+                        "2": [
+                            "LIN228H5",
+                            "LIN229H5",
+                            "LIN231H5",
+                            "LIN232H5",
+                            "LIN237H5",
+                            "LIN247H5",
+                            "LIN256H5",
+                            "LIN258H5",
+                            "LIN288H5"
+                        ],
+                        "3": [
+                            "ANT358H5",
+                            "ANT362H5",
+                            "ITA373H5",
+                            "LIN318H5",
+                            "LIN327H5",
+                            "LIN328H5",
+                            "LIN329H5",
+                            "LIN331H5",
+                            "LIN332H5",
+                            "LIN337H5",
+                            "LIN338H5",
+                            "LIN340H5",
+                            "LIN356H5",
+                            "LIN360H5",
+                            "LIN366H5",
+                            "LIN368H5",
+                            "LIN369H5",
+                            "LIN376H5",
+                            "LIN380H5",
+                            "LIN385H5",
+                            "PHL350H5",
+                            "PSY315H5",
+                            "PSY374H5",
+                            "PSY376H5",
+                            "SAN392Y5"
+                        ],
+                        "4": [
+                            "FRE454H5",
+                            "FRE474H5",
+                            "FRE489H5",
+                            "ITA437Y5",
+                            "LIN406H5",
+                            "LIN409H5",
+                            "LIN411H5",
+                            "LIN417H5",
+                            "LIN418H5",
+                            "LIN421H5",
+                            "LIN454H5",
+                            "LIN456H5",
+                            "LIN458H5",
+                            "LIN460H5",
+                            "LIN466H5",
+                            "LIN468H5",
+                            "LIN469H5",
+                            "LIN474H5",
+                            "LIN476H5",
+                            "LIN481H5",
+                            "LIN487H5",
+                            "LTL488H5",
+                            "PHL451H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Linguistic Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0506",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "LIN100Y5",
+                            "LIN101H5",
+                            "LIN102H5"
+                        ],
+                        "2": [
+                            "LIN228H5",
+                            "LIN229H5",
+                            "LIN231H5",
+                            "LIN232H5",
+                            "LIN237H5",
+                            "LIN247H5",
+                            "LIN256H5",
+                            "LIN258H5",
+                            "LIN288H5"
+                        ],
+                        "3": [
+                            "ITA373H5",
+                            "SAN392Y5"
+                        ],
+                        "4": [
+                            "FRE454H5",
+                            "FRE474H5",
+                            "FRE489H5",
+                            "ITA437Y5"
+                        ]
+                    }
+                },
+                {
+                    "name": "English Language Linguistics (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1200",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "LIN100Y5",
+                            "LIN101H5",
+                            "LIN102H5"
+                        ],
+                        "2": [
+                            "JAL253H5",
+                            "LIN203H5",
+                            "LIN204H5",
+                            "LIN205H5",
+                            "LIN228H5",
+                            "LIN233H5",
+                            "LIN258H5",
+                            "LIN288H5"
+                        ],
+                        "3": [
+                            "JAL355H5",
+                            "LIN310H5",
+                            "LIN311H5",
+                            "LIN325H5",
+                            "LIN335H5",
+                            "LIN353H5",
+                            "LIN357H5",
+                            "LIN358H5",
+                            "LIN388H5"
+                        ],
+                        "4": [
+                            "CHI411H5",
+                            "LIN410H5",
+                            "LIN486H5"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

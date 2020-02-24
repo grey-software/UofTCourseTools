@@ -27,7 +27,7 @@ def create_subject_groups() -> List[Subject_Group]:
 
 
         all_subject_groups.append(curr_subject_group)
-        print(curr_subject_group.all_subject_names)
+        # print(curr_subject_group.all_subject_names)
     
     return all_subject_groups
 
@@ -119,7 +119,7 @@ subject_ids = all_subject_ids(
 
 all_program_types = get_all_program_types() # gets the type of every program
 
-subject_ids = []
+# subject_ids = ["9"]
 
 all_subject_groups = create_subject_groups()
 
@@ -201,9 +201,11 @@ for subject_id in tqdm(subject_ids):
             if group.subject_in_group(curr_subject.name.split(' ')[0].replace(',','')):
                 group.add_subject(curr_subject)
 
-            print(group.tp_json())
+            # write subject_group to json file
+            with open('../output/subject_groups/' + group.name + '.json', 'w') as file:
+                json.dump(group.to_json(), file)
 
 
-        # # write data to json file
-        # with open('../output/subjects/' + curr_subject.name + '.json', 'w') as file:
-        #     json.dump(curr_subject.to_json(), file)
+        # write subject to json file
+        with open('../output/subjects/' + curr_subject.name + '.json', 'w') as file:
+            json.dump(curr_subject.to_json(), file)

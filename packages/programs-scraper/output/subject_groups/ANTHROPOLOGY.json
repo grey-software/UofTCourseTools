@@ -1,0 +1,536 @@
+{
+    "name": "ANTHROPOLOGY",
+    "group": [
+        {
+            "name": "Anthropology",
+            "degrees": [
+                "HBA",
+                "HBSc"
+            ],
+            "notes": [
+                "ANT200H5, ANT201H5, ANT202H5, ANT203H5",
+                "ANT204H5 and 0.5 from (ANT206H5 or ANT207H5)"
+            ],
+            "programs": [
+                {
+                    "name": "Anthropology (Science)",
+                    "level": "Specialist",
+                    "code": "ERSPE0105",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ANT101H5",
+                            "ANT102H5"
+                        ],
+                        "2": [
+                            "ANT200H5",
+                            "ANT201H5",
+                            "ANT202H5",
+                            "ANT203H5",
+                            "ANT204H5",
+                            "ANT206H5",
+                            "ANT207H5"
+                        ],
+                        "3": [],
+                        "4": [
+                            "HSC403H5",
+                            "HSC404H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Anthropology (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1775",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ANT101H5",
+                            "ANT102H5"
+                        ],
+                        "2": [
+                            "ANT200H5",
+                            "ANT201H5",
+                            "ANT202H5",
+                            "ANT203H5",
+                            "ANT204H5",
+                            "ANT206H5",
+                            "ANT207H5",
+                            "JAL253H5"
+                        ],
+                        "3": [
+                            "JAL353H5",
+                            "JAL355H5"
+                        ],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Anthropology (Science)",
+                    "level": "Major",
+                    "code": "ERMAJ0105",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ANT101H5",
+                            "ANT102H5"
+                        ],
+                        "2": [
+                            "ANT200H5",
+                            "ANT201H5",
+                            "ANT202H5",
+                            "ANT203H5",
+                            "ANT204H5",
+                            "ANT206H5",
+                            "ANT207H5"
+                        ],
+                        "3": [],
+                        "4": [
+                            "HSC403H5",
+                            "HSC404H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Anthropology (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1775",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ANT101H5",
+                            "ANT102H5"
+                        ],
+                        "2": [
+                            "ANT200H5",
+                            "ANT201H5",
+                            "ANT202H5",
+                            "ANT203H5",
+                            "ANT204H5",
+                            "ANT206H5",
+                            "ANT207H5",
+                            "JAL253H5"
+                        ],
+                        "3": [
+                            "JAL353H5",
+                            "JAL355H5"
+                        ],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Anthropology (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1775",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ANT101H5",
+                            "ANT102H5"
+                        ],
+                        "2": [
+                            "ANT200H5",
+                            "ANT201H5",
+                            "ANT202H5",
+                            "ANT203H5",
+                            "ANT204H5",
+                            "ANT206H5",
+                            "ANT207H5",
+                            "JAL253H5"
+                        ],
+                        "3": [
+                            "JAL353H5",
+                            "JAL355H5"
+                        ],
+                        "4": [
+                            "HSC403H5",
+                            "HSC404H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Forensic Science",
+            "degrees": [
+                "HBSc"
+            ],
+            "notes": [
+                "Completion of 4.0 credits; including 3.0 science credits.",
+                "Completion of ANT101H5 with 75% or better  and ANT102H5 with 75% or better and FSC239Y5 with a 70% or better.(Students applying to enroll after second year must have completed 8.0 credits and achieved at least 75% in each of ANT200H5, ANT201H5, ANT202H5, ANT203H5 and ANT205H5)  and FSC239Y5 with a 70% or better.",
+                "A minimum Cumulative Grade Point Average of at least 3.0 The actual minimum CGPA varies from year to year but is never lower than 3.0"
+            ],
+            "programs": [
+                {
+                    "name": "Forensic Anthropology (Science)",
+                    "level": "Specialist",
+                    "code": "ERSPE1338",
+                    "type": "Type 3",
+                    "notes": [
+                        "Completion of 4.0 credits; including 3.0 science credits.",
+                        "Completion of ANT101H5 with 75% or better  and ANT102H5 with 75% or better and FSC239Y5 with a 70% or better.(Students applying to enroll after second year must have completed 8.0 credits and achieved at least 75% in each of ANT200H5, ANT201H5, ANT202H5, ANT203H5 and ANT205H5)  and FSC239Y5 with a 70% or better.",
+                        "A minimum Cumulative Grade Point Average of at least 3.0 The actual minimum CGPA varies from year to year but is never lower than 3.0"
+                    ],
+                    "courses": {
+                        "1": [
+                            "ANT101H5",
+                            "ANT102H5",
+                            "BIO152H5",
+                            "BIO153H5"
+                        ],
+                        "2": [
+                            "ANT200H5",
+                            "ANT201H5",
+                            "ANT202H5",
+                            "ANT203H5",
+                            "ANT205H5",
+                            "FSC210H5",
+                            "FSC239Y5",
+                            "FSC271H5",
+                            "STA215H5"
+                        ],
+                        "3": [
+                            "ANT306H5",
+                            "ANT312H5",
+                            "ANT317H5",
+                            "ANT334H5",
+                            "ANT340H5",
+                            "FSC300H5",
+                            "FSC302H5",
+                            "FSC303H5",
+                            "FSC307H5",
+                            "FSC316H5",
+                            "FSC330H5",
+                            "FSC340H5",
+                            "FSC360H5"
+                        ],
+                        "4": [
+                            "ANT407H5",
+                            "ANT415H5",
+                            "ANT436H5",
+                            "ANT439H5",
+                            "ANT441H5",
+                            "FSC401H5",
+                            "FSC481Y5",
+                            "FSC482H5",
+                            "FSC483H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Forensic Biology (Science)",
+                    "level": "Specialist",
+                    "code": "ERSPE1410",
+                    "type": "Type 3",
+                    "notes": [
+                        "Completion of 4.0 credits; including 3.0 science credits",
+                        "Completion of BIO152H5 with 65% or better and BIO153H5 with 65% or better",
+                        "Completion of CHM110H5 with 65% or better and CHM120H5 with 65% or better",
+                        "Completion of (MAT132H5, MAT134H5)/(MAT135H5, MAT136H5)/MAT134Y5/MAT135Y5/MAT137Y5/MAT157Y5",
+                        "Completion of FSC239Y5 with 70% or better.",
+                        "A minimum Cumulative Grade Point Average of at least 3.0. The actual minimum CGPA requirement varies from year to year but is never lower than 3.0"
+                    ],
+                    "courses": {
+                        "1": [
+                            "BIO152H5",
+                            "BIO153H5",
+                            "CHM110H5",
+                            "CHM120H5",
+                            "MAT132H5",
+                            "MAT134H5",
+                            "MAT134Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MAT137Y5",
+                            "MAT157Y5",
+                            "PHY136H5",
+                            "PHY137H5"
+                        ],
+                        "2": [
+                            "BIO206H5",
+                            "BIO207H5",
+                            "BIO210Y5",
+                            "CHM242H5",
+                            "CHM243H5",
+                            "FSC210H5",
+                            "FSC239Y5",
+                            "FSC271H5",
+                            "STA215H5"
+                        ],
+                        "3": [
+                            "BIO341H5",
+                            "BIO362H5",
+                            "CHM361H5",
+                            "FSC300H5",
+                            "FSC302H5",
+                            "FSC303H5",
+                            "FSC315H5",
+                            "FSC316H5",
+                            "FSC330H5",
+                            "FSC340H5",
+                            "FSC350H5",
+                            "FSC360H5",
+                            "FSC370H5",
+                            "FSC371H5"
+                        ],
+                        "4": [
+                            "BIO458H5",
+                            "FSC401H5",
+                            "FSC402H5",
+                            "FSC406H5",
+                            "FSC407H5",
+                            "FSC415H5",
+                            "FSC416H5",
+                            "FSC481Y5",
+                            "FSC482H5",
+                            "FSC483H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Forensic Chemistry (Science)",
+                    "level": "Specialist",
+                    "code": "ERSPE1009",
+                    "type": "Type 3",
+                    "notes": [
+                        "Completion of 4.0 credits; including 3.0 science credits.",
+                        "Completion of CHM110H5 with 65% or better and CHM120H5 with 65% or better.",
+                        "Completion of FSC239Y5 with 70% or better.",
+                        "Completion of (MAT132H5, MAT134H5)/(MAT135H5, MAT136H5)/MAT134Y5/MAT135Y5/MAT137Y5/MAT157Y5.",
+                        "A minimum Cumulative Grade Point Average of at least 3.0. The actual minimum CGPA requirement varies from year to year but is never lower than 3.0"
+                    ],
+                    "courses": {
+                        "1": [
+                            "BIO152H5",
+                            "CHM110H5",
+                            "CHM120H5",
+                            "MAT132H5",
+                            "MAT134H5",
+                            "MAT134Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MAT137Y5",
+                            "MAT157Y5",
+                            "PHY136H5",
+                            "PHY137H5"
+                        ],
+                        "2": [
+                            "ANT205H5",
+                            "BIO200H5",
+                            "CHM211H5",
+                            "CHM231H5",
+                            "CHM242H5",
+                            "CHM243H5",
+                            "FSC210H5",
+                            "FSC239Y5",
+                            "FSC271H5",
+                            "JCP221H5",
+                            "STA220H5"
+                        ],
+                        "3": [
+                            "ANT306H5",
+                            "CHM311H5",
+                            "CHM331H5",
+                            "CHM333H5",
+                            "CHM361H5",
+                            "CHM372H5",
+                            "CHM396H5",
+                            "CHM397H5",
+                            "FSC300H5",
+                            "FSC302H5",
+                            "FSC303H5",
+                            "FSC311H5",
+                            "FSC315H5",
+                            "FSC316H5",
+                            "FSC330H5",
+                            "FSC340H5",
+                            "FSC350H5",
+                            "FSC360H5",
+                            "FSC370H5",
+                            "PSY328H5",
+                            "PSY344H5"
+                        ],
+                        "4": [
+                            "CHM414H5",
+                            "CHM416H5",
+                            "FSC402H5",
+                            "FSC403H5",
+                            "FSC406H5",
+                            "FSC407H5",
+                            "FSC481Y5",
+                            "FSC482H5",
+                            "FSC483H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Forensic Psychology (Science)",
+                    "level": "Specialist",
+                    "code": "ERSPE1505",
+                    "type": "Type 3",
+                    "notes": [
+                        "Completion of any Gr.12(4U) Biology and Advanced Functions or equivalent*;",
+                        "Completion of 8.0 credits.",
+                        "Completed PSY201H5, PSY202H5 (or equivalent), and at least 1.5 FCE in 200 series PSY courses with a minimum average of 77% for those five half courses and",
+                        "A minimum cumulative Grade Point Average of at least 3.0.  The actual minimum CGPA requirement varies from year to year but is never lower than 3.0"
+                    ],
+                    "courses": {
+                        "1": [
+                            "BIO152H5",
+                            "BIO153H5",
+                            "PSY100Y5"
+                        ],
+                        "2": [
+                            "FSC220H5",
+                            "FSC239Y5",
+                            "FSC271H5",
+                            "PSY201H5",
+                            "PSY202H5",
+                            "PSY210H5",
+                            "PSY220H5",
+                            "PSY230H5",
+                            "PSY240H5",
+                            "PSY270H5",
+                            "PSY274H5",
+                            "PSY280H5",
+                            "PSY290H5"
+                        ],
+                        "3": [
+                            "FSC300H5",
+                            "FSC302H5",
+                            "FSC303H5",
+                            "FSC311H5",
+                            "FSC315H5",
+                            "FSC316H5",
+                            "FSC360H5",
+                            "PSY309H5",
+                            "PSY328H5",
+                            "PSY329H5",
+                            "PSY340H5",
+                            "PSY341H5",
+                            "PSY344H5",
+                            "PSY346H5",
+                            "PSY379H5",
+                            "PSY393H5",
+                            "PSY399H5"
+                        ],
+                        "4": [
+                            "FSC401H5",
+                            "FSC402H5",
+                            "FSC403H5",
+                            "FSC406H5",
+                            "FSC407H5",
+                            "FSC481Y5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Forensic Science (Science)",
+                    "level": "Major",
+                    "code": "ERMAJ0205",
+                    "type": "Type 3",
+                    "notes": [
+                        "Completion of 4.0 credits; including 3.0 science credits.",
+                        "Completion of CHM110H5, CHM120H5 with 65% or better.",
+                        "Completion of  MAT132H5, MAT134H5/MAT135H5, MAT136H5/MAT134Y5/MAT135Y5/MAT137Y5.",
+                        "A minimum Cumulative Grade Point Average of at least 2.7  The actual CGPA requirement in any particular year may exceed this value, in order to achieve a proper balance between enrolments and teaching resources.",
+                        "Enrolment in an Approved Second Major (See Second Major Notes: 1)."
+                    ],
+                    "courses": {
+                        "1": [
+                            "CHM110H5",
+                            "CHM120H5",
+                            "MAT132H5",
+                            "MAT134H5",
+                            "MAT134Y5",
+                            "MAT135H5",
+                            "MAT135Y5",
+                            "MAT136H5",
+                            "MAT137Y5",
+                            "PHY136H5"
+                        ],
+                        "2": [
+                            "ANT205H5",
+                            "CHM242H5",
+                            "CHM243H5",
+                            "FSC220H5",
+                            "FSC239Y5",
+                            "FSC271H5",
+                            "STA215H5",
+                            "STA220H5"
+                        ],
+                        "3": [
+                            "ANT306H5",
+                            "FSC300H5",
+                            "FSC302H5",
+                            "FSC303H5",
+                            "FSC311H5",
+                            "FSC315H5",
+                            "FSC316H5",
+                            "FSC320H5",
+                            "FSC330H5",
+                            "FSC350H5",
+                            "FSC360H5",
+                            "FSC370H5"
+                        ],
+                        "4": [
+                            "ANT415H5",
+                            "ANT439H5",
+                            "FSC401H5",
+                            "FSC402H5",
+                            "FSC403H5",
+                            "FSC406H5",
+                            "FSC407H5",
+                            "FSC430H5",
+                            "FSC489H5",
+                            "HSC404H5",
+                            "HSC405H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Forensic Science",
+                    "level": "Minor",
+                    "code": "ERMIN0205",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [
+                            "FSC220H5",
+                            "FSC239Y5",
+                            "FSC271H5"
+                        ],
+                        "3": [
+                            "ANT306H5",
+                            "FSC303H5",
+                            "FSC311H5",
+                            "FSC315H5",
+                            "FSC320H5",
+                            "FSC330H5",
+                            "FSC360H5",
+                            "FSC370H5"
+                        ],
+                        "4": [
+                            "ANT439H5",
+                            "FSC401H5",
+                            "FSC402H5",
+                            "FSC403H5",
+                            "FSC406H5",
+                            "FSC430H5",
+                            "HSC404H5",
+                            "HSC405H5"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

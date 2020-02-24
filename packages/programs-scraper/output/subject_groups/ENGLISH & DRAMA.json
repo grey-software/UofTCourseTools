@@ -1,0 +1,428 @@
+{
+    "name": "ENGLISH & DRAMA",
+    "group": [
+        {
+            "name": "Theatre, Drama & Performance Studies",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "Additional DRE courses and the following drama-related courses can be used to fulfill the requirements for any Theatre, Drama and Performance Studies program:CIN202H5, 301H5*; 302H5*; 303H5*; CLA300H5; ENG220Y5, 330H5, 331H5*, 335H5*, 336H5*, 337H5, 340H5*, 341H5*, 342H5*, 352H5*, 424H5*/425H5*/ 426H5* (when drama related), 434H5*/435H5*/436H5* (when drama related), 460H5*/461H*/462H5*/463H5* (when drama related); 470H5*/471H5*/472H5*/473H5* (when drama related), FAH475H5, FRE317H5, 393H5, 397H5; GER353H5, 355H5*; ITA242H5, 243H5, 246H5, 247H5, 307H5, 315Y5, 342H5, 343H5, 413Y5, 490Y5, 495Y5.*= Departmental prerequisites",
+                "Students enrolled in Specialist and Major programs in Drama who have completed 2.0 DRE credits may enrol in ENG330H5, 331H5, 335H5, 336H5, 340H5, 341H5, 342H5"
+            ],
+            "programs": [
+                {
+                    "name": "Theatre and Drama Studies (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1880",
+                    "type": "Type 3",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "DRS121H5",
+                            "ENG121H5"
+                        ],
+                        "2": [
+                            "DRE200H5",
+                            "DRS221H5"
+                        ],
+                        "3": [
+                            "DRS321H5"
+                        ],
+                        "4": [
+                            "DRS421H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Theatre, Drama and Performance Studies (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ2468",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ENG121H5"
+                        ],
+                        "2": [
+                            "DRE200H5"
+                        ],
+                        "3": [],
+                        "4": []
+                    }
+                },
+                {
+                    "name": "Theatre, Drama and Performance Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN2468",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ENG121H5"
+                        ],
+                        "2": [
+                            "CIN202H5",
+                            "DRE200H5",
+                            "ENG220Y5",
+                            "ITA242H5"
+                        ],
+                        "3": [
+                            "CLA300H5",
+                            "ENG330H5",
+                            "FRE317H5",
+                            "GER353H5"
+                        ],
+                        "4": [
+                            "FAH475H5"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "English",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [],
+            "programs": [
+                {
+                    "name": "English (Arts)",
+                    "level": "Specialist",
+                    "code": "ERSPE1645",
+                    "type": "Type 2",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ENG101H5"
+                        ],
+                        "2": [
+                            "ENG201Y5",
+                            "ENG202H5",
+                            "ENG203H5",
+                            "ENG205H5",
+                            "ENG206H5",
+                            "ENG215H5",
+                            "ENG220Y5",
+                            "ENG222H5",
+                            "ENG250Y5",
+                            "ENG251H5",
+                            "ENG252Y5",
+                            "ENG255H5",
+                            "ENG259H5",
+                            "ENG269H5",
+                            "ENG271H5",
+                            "ENG272H5",
+                            "ENG273H5",
+                            "ENG274H5",
+                            "ENG275H5",
+                            "ENG280H5"
+                        ],
+                        "3": [
+                            "ENG300Y5",
+                            "ENG301H5",
+                            "ENG303H5",
+                            "ENG304H5",
+                            "ENG305H5",
+                            "ENG306Y5",
+                            "ENG307H5",
+                            "ENG308Y5",
+                            "ENG311H5",
+                            "ENG312H5",
+                            "ENG313H5",
+                            "ENG314H5",
+                            "ENG315H5",
+                            "ENG320H5",
+                            "ENG321H5",
+                            "ENG322Y5",
+                            "ENG323H5",
+                            "ENG324Y5",
+                            "ENG325H5",
+                            "ENG326H5",
+                            "ENG327H5",
+                            "ENG330H5",
+                            "ENG331H5",
+                            "ENG335H5",
+                            "ENG336H5",
+                            "ENG337H5",
+                            "ENG343H5",
+                            "ENG345H5",
+                            "ENG352H5",
+                            "ENG353Y5",
+                            "ENG354Y5",
+                            "ENG357H5",
+                            "ENG358H5",
+                            "ENG360H5",
+                            "ENG363Y5",
+                            "ENG364Y5",
+                            "ENG365H5",
+                            "ENG366H5",
+                            "ENG370H5",
+                            "ENG371H5",
+                            "ENG372H5",
+                            "ENG380H5",
+                            "ENG382H5",
+                            "ENG383H5",
+                            "ENG384H5",
+                            "ENG385H5",
+                            "ENG386H5",
+                            "ENG387H5",
+                            "ENG392H5",
+                            "ENG393H5",
+                            "ENG394H5",
+                            "ENG395H5",
+                            "ENG396H5"
+                        ],
+                        "4": [
+                            "ENG414H5",
+                            "ENG415H5",
+                            "ENG416H5",
+                            "ENG424H5",
+                            "ENG425H5",
+                            "ENG426H5",
+                            "ENG434H5",
+                            "ENG435H5",
+                            "ENG436H5",
+                            "ENG460H5",
+                            "ENG461H5",
+                            "ENG462H5",
+                            "ENG463H5",
+                            "ENG470H5",
+                            "ENG471H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "English (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ1645",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "ENG101H5"
+                        ],
+                        "2": [
+                            "ENG201Y5",
+                            "ENG202H5",
+                            "ENG203H5",
+                            "ENG205H5",
+                            "ENG206H5",
+                            "ENG215H5",
+                            "ENG220Y5",
+                            "ENG222H5",
+                            "ENG250Y5",
+                            "ENG251H5",
+                            "ENG252Y5",
+                            "ENG255H5",
+                            "ENG259H5",
+                            "ENG269H5",
+                            "ENG271H5",
+                            "ENG272H5",
+                            "ENG273H5",
+                            "ENG274H5",
+                            "ENG275H5",
+                            "ENG280H5"
+                        ],
+                        "3": [
+                            "ENG300Y5",
+                            "ENG301H5",
+                            "ENG303H5",
+                            "ENG304H5",
+                            "ENG305H5",
+                            "ENG306Y5",
+                            "ENG307H5",
+                            "ENG308Y5",
+                            "ENG311H5",
+                            "ENG312H5",
+                            "ENG313H5",
+                            "ENG314H5",
+                            "ENG315H5",
+                            "ENG320H5",
+                            "ENG321H5",
+                            "ENG322Y5",
+                            "ENG323H5",
+                            "ENG324Y5",
+                            "ENG325H5",
+                            "ENG326H5",
+                            "ENG327H5",
+                            "ENG330H5",
+                            "ENG331H5",
+                            "ENG335H5",
+                            "ENG336H5",
+                            "ENG337H5",
+                            "ENG343H5",
+                            "ENG345H5",
+                            "ENG352H5",
+                            "ENG353Y5",
+                            "ENG354Y5",
+                            "ENG357H5",
+                            "ENG358H5",
+                            "ENG360H5",
+                            "ENG363Y5",
+                            "ENG364Y5",
+                            "ENG365H5",
+                            "ENG366H5",
+                            "ENG370H5",
+                            "ENG371H5",
+                            "ENG372H5",
+                            "ENG380H5",
+                            "ENG382H5",
+                            "ENG383H5",
+                            "ENG384H5",
+                            "ENG385H5",
+                            "ENG386H5",
+                            "ENG387H5",
+                            "ENG392H5",
+                            "ENG393H5",
+                            "ENG394H5",
+                            "ENG395H5",
+                            "ENG396H5"
+                        ],
+                        "4": [
+                            "ENG414H5",
+                            "ENG415H5",
+                            "ENG416H5",
+                            "ENG424H5",
+                            "ENG425H5",
+                            "ENG426H5",
+                            "ENG434H5",
+                            "ENG435H5",
+                            "ENG436H5",
+                            "ENG460H5",
+                            "ENG461H5",
+                            "ENG462H5",
+                            "ENG463H5",
+                            "ENG470H5",
+                            "ENG471H5"
+                        ]
+                    }
+                },
+                {
+                    "name": "English (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN1645",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [],
+                        "3": [],
+                        "4": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Canadian Studies",
+            "degrees": [
+                "HBA"
+            ],
+            "notes": [
+                "HIS261H5 (Introduction to Canadian History) and HIS358H5 (Canada Since World War Two); POL214Y5 (Canadian Government and Politics); ENG252Y5 (Canadian Literature) or ENG353Y5 (Canadian Fiction) or ENG354Y5 (Canadian Poetry); GGR202H5 (Geography of Canada) and",
+                "3.5 additional credits (at least 2.0 of which must be at the 300/400 level) in courses chosen from the list below or approved by the program advisor."
+            ],
+            "programs": [
+                {
+                    "name": "Canadian Studies (Arts)",
+                    "level": "Major",
+                    "code": "ERMAJ0728",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [
+                            "POL111H5"
+                        ],
+                        "2": [
+                            "ANT241Y5",
+                            "CIN205H5",
+                            "DRE200H5",
+                            "ENG215H5",
+                            "ENG252Y5",
+                            "ENG271H5",
+                            "ENG274H5",
+                            "FAH292H5",
+                            "GGR202H5",
+                            "HIS261H5",
+                            "HIS263Y5",
+                            "ITA255H5",
+                            "JPE250Y5",
+                            "POL214Y5",
+                            "POL250Y5",
+                            "WGS210H5"
+                        ],
+                        "3": [
+                            "ECO323Y5",
+                            "ENG352H5",
+                            "ENG353Y5",
+                            "ENG354Y5",
+                            "ENG357H5",
+                            "ENG358H5",
+                            "FRE312H5",
+                            "FRE316H5",
+                            "GGR348H5",
+                            "GGR384H5",
+                            "HIS311H5",
+                            "HIS312H5",
+                            "HIS313H5",
+                            "HIS314H5",
+                            "HIS315H5",
+                            "HIS318H5",
+                            "HIS319H5",
+                            "HIS326Y5",
+                            "HIS358H5",
+                            "HIS367H5",
+                            "HIS368H5",
+                            "HIS369H5",
+                            "POL316Y5",
+                            "POL336Y5",
+                            "POL353Y5",
+                            "SOC301H5",
+                            "SOC313H5",
+                            "WGS347H5"
+                        ],
+                        "4": [
+                            "ENG424H5",
+                            "ENG425H5",
+                            "ENG426H5",
+                            "FRE417H5",
+                            "FRE474H5",
+                            "HIS402H5",
+                            "HIS416H5",
+                            "HIS452H5",
+                            "HIS461H5",
+                            "HIS462H5",
+                            "HIS487H5",
+                            "MGT429H5",
+                            "POL490H5",
+                            "POL494Y5"
+                        ]
+                    }
+                },
+                {
+                    "name": "Canadian Studies (Arts)",
+                    "level": "Minor",
+                    "code": "ERMIN0728",
+                    "type": "Type 1",
+                    "notes": [],
+                    "courses": {
+                        "1": [],
+                        "2": [
+                            "ENG252Y5",
+                            "GGR202H5",
+                            "HIS261H5",
+                            "POL214Y5"
+                        ],
+                        "3": [
+                            "ENG353Y5",
+                            "ENG354Y5",
+                            "HIS358H5"
+                        ],
+                        "4": []
+                    }
+                }
+            ]
+        }
+    ]
+}
