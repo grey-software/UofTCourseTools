@@ -27,7 +27,7 @@ def create_subject_groups() -> List[Subject_Group]:
 
 
         all_subject_groups.append(curr_subject_group)
-        # print(curr_subject_group.all_subject_names)
+        print(curr_subject_group.all_subject_names)
     
     return all_subject_groups
 
@@ -200,6 +200,7 @@ for subject_id in tqdm(subject_ids):
         for group in all_subject_groups:
             if group.subject_in_group(curr_subject.name.split(' ')[0].replace(',','')):
                 group.add_subject(curr_subject)
+                continue
 
             # write subject_group to json file
             with open('../output/subject_groups/' + group.name + '.json', 'w') as file:
