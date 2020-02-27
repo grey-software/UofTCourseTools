@@ -4,6 +4,7 @@
     "description": "The monorepo for UofTCourseTools",
     "scripts": {
         "setup": "npm ci; npm ci --prefix packages/docs",
+        "docs": "npm run dev --prefix packages/docs",
         "build-docs": "npm run build --prefix packages/docs"
     },
     "devDependencies": {
