@@ -3,6 +3,12 @@
     <v-row>
       <v-col>
         <course-search-bar v-if="!$apollo.loading" :courses="formattedCourses" />
+        <v-skeleton-loader
+        v-else
+        class="mx-auto"
+        max-width="1200"
+        type="list-item"
+        ></v-skeleton-loader>
       </v-col>
     </v-row>
     <v-row style="background: #E5E5E5;">

@@ -3,7 +3,7 @@
     <v-row>
       <v-col class="pb-0">
         <p class="header-style">Optimzation Settings</p>
-        <span class="header-style" style="font-size: 18px;">Idel Time</span>
+        <span class="header-style" style="font-size: 18px;">Idle Time</span>
         <span class="header-style" style="font-size: 18px; margin-left: 137px;">Days Off</span>
       </v-col>
     </v-row>    
