@@ -3,8 +3,13 @@
     @change="onCourseSelected()"
     v-model="selectedCourse"
     :items="courses"
-    dense
-    label="Search Course"
+    cache-items
+      class="mx-4"
+      flat
+      hide-no-data
+      hide-details
+      label="Search for a Course"
+      solo-inverted
   ></v-autocomplete>
 </template>
 

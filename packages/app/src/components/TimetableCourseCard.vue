@@ -144,8 +144,6 @@ export default {
 }
 
 .course-card-header {
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
   position: relative;
   height: 35px;
 }
@@ -163,7 +161,6 @@ export default {
 
 .course-info-header {
   background: white;
-  border-bottom: 1px solid black;
   padding-left: 10px;
 }
 
