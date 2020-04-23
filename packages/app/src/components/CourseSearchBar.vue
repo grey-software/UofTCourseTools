@@ -33,10 +33,10 @@ export default {
           query: gql`
             query getCourse($code: String!) {
               courses(code: $code) {
-                code
+                courseCode: code
                 name
                 meeting_sections {
-                  code
+                  meetCode: code
                   instructors
                   times {
                     day
@@ -53,7 +53,7 @@ export default {
           }
         })
         .then(response => {
-          // console.log(response);
+          console.log(response);
           if (response.data.courses) {
             this.selectCourse({ course: response.data.courses[0] });
           }
