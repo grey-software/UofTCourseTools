@@ -36,7 +36,7 @@ export default {
                 courseCode: code
                 name
                 meeting_sections {
-                  meetCode: code
+                  sectionCode: code
                   instructors
                   times {
                     day
