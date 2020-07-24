@@ -298,9 +298,14 @@
                                                     programs (only for selected
                                                     programs)
                                                 </li>
-                                                <li>Added courses from all 3 campuses</li>
+                                                <li>
+                                                    Added courses from all 3 campuses
+                                                </li>
                                                 <li>Bird course recommendations</li>
-                                                <li>Save timetable in the browser for when you visit again</li>
+                                                <li>
+                                                    Save timetable in the browser for
+                                                    when you visit again
+                                                </li>
                                                 <li>
                                                     More UI improvement
                                                 </li>
@@ -454,6 +459,48 @@
                         </v-col>
                     </v-row>
                 </v-card>
+                <v-card elevation="4" class="mt-4" :dark="darkMode">
+                    <v-row justify="center">
+                        <v-col style="text-align: center">
+                            <h1 class="ma-3">Partners</h1>
+                            <agile
+                                class="ma-3"
+                                slidesToShow="5"
+                                pauseOnHover
+                                infinite
+                                autoplay
+                                :navButtons="false"
+                                height="30"
+                            >
+                                <div>
+                                    <v-img
+                                        max-height="170"
+                                        contain
+                                        src="../assets/UTMVSA.png"
+                                    ></v-img>
+                                </div>
+                                <div>
+                                    <v-img
+                                        max-height="170"
+                                        contain
+                                        src="../assets/WISC.png"
+                                    ></v-img>
+                                </div>
+                                <div>
+                                    <v-img
+                                        max-height="170"
+                                        contain
+                                        :src="
+                                            darkMode
+                                                ? require('../assets/UTMSAM-Dark.png')
+                                                : require('../assets/UTMSAM-Light.png')
+                                        "
+                                    ></v-img>
+                                </div>
+                            </agile>
+                        </v-col>
+                    </v-row>
+                </v-card>
                 <v-row
                     justify="center"
                     align="center"
@@ -536,10 +583,12 @@
 <script>
 import axios from "axios";
 import AnimatedNumber from "animated-number-vue";
+import { VueAgile } from "vue-agile";
 
 export default {
     components: {
         AnimatedNumber,
+        agile: VueAgile,
     },
     data() {
         return {

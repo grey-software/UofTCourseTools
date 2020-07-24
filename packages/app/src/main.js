@@ -14,9 +14,11 @@ import VueMobileDetection from "vue-mobile-detection";
 import VueAnalytics from "vue-analytics";
 import VueHtml2Canvas from 'vue-html2canvas';
 import SmoothScrollbar from 'vue-smooth-scrollbar'
+import VueAgile from 'vue-agile'
 
 Vue.config.productionTip = false;
 
+Vue.use(VueAgile)
 Vue.use(SmoothScrollbar)
 Vue.use(VueHtml2Canvas);
 Vue.use(ToggleButton);
