@@ -462,10 +462,10 @@
                 <v-card elevation="4" class="mt-4" :dark="darkMode">
                     <v-row justify="center">
                         <v-col style="text-align: center">
-                            <h1 class="ma-3">Partners</h1>
+                            <h1 class="ma-3 mb-4">Promotion Partners</h1>
                             <agile
                                 class="ma-3"
-                                slidesToShow="5"
+                                :slidesToShow="$isMobile() ? 3 : 5"
                                 pauseOnHover
                                 infinite
                                 autoplay
@@ -474,26 +474,37 @@
                             >
                                 <div>
                                     <v-img
-                                        max-height="170"
+                                        :height="$isMobile() ? 110 : 170"
                                         contain
                                         src="../assets/UTMVSA.png"
                                     ></v-img>
                                 </div>
                                 <div>
                                     <v-img
-                                        max-height="170"
+                                        :height="$isMobile() ? 110 : 170"
                                         contain
                                         src="../assets/WISC.png"
                                     ></v-img>
                                 </div>
                                 <div>
                                     <v-img
-                                        max-height="170"
+                                        :height="$isMobile() ? 110 : 170"
                                         contain
                                         :src="
                                             darkMode
                                                 ? require('../assets/UTMSAM-Dark.png')
                                                 : require('../assets/UTMSAM-Light.png')
+                                        "
+                                    ></v-img>
+                                </div>
+                                <div>
+                                    <v-img
+                                        :height="$isMobile() ? 110 : 170"
+                                        contain
+                                        :src="
+                                            darkMode
+                                                ? require('../assets/DSC-Dark.png')
+                                                : require('../assets/DSC-Light.png')
                                         "
                                     ></v-img>
                                 </div>
