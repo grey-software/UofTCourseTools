@@ -483,7 +483,7 @@
                                     <v-img
                                         :height="$isMobile() ? 110 : 170"
                                         contain
-                                          :src="
+                                        :src="
                                             darkMode
                                                 ? require('../assets/WISC-Dark.png')
                                                 : require('../assets/WISC-Light.png')
@@ -521,6 +521,13 @@
                                                 ? require('../assets/UTMEBS-Dark.png')
                                                 : require('../assets/UTMEBS-Light.png')
                                         "
+                                    ></v-img>
+                                </div>
+                                <div>
+                                    <v-img
+                                        :height="$isMobile() ? 110 : 170"
+                                        contain
+                                        src="../assets/UTMMCSS.png"
                                     ></v-img>
                                 </div>
                             </agile>
