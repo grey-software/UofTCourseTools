@@ -462,7 +462,7 @@
                 <v-card elevation="4" class="mt-4" :dark="darkMode">
                     <v-row justify="center">
                         <v-col style="text-align: center">
-                            <h1 class="ma-3 mb-4">Promotion Partners</h1>
+                            <h1 class="ma-3 mb-4">Our Partners</h1>
                             <agile
                                 class="ma-3"
                                 :slidesToShow="$isMobile() ? 3 : 5"
@@ -483,7 +483,11 @@
                                     <v-img
                                         :height="$isMobile() ? 110 : 170"
                                         contain
-                                        src="../assets/WISC.png"
+                                          :src="
+                                            darkMode
+                                                ? require('../assets/WISC-Dark.png')
+                                                : require('../assets/WISC-Light.png')
+                                        "
                                     ></v-img>
                                 </div>
                                 <div>
@@ -505,6 +509,17 @@
                                             darkMode
                                                 ? require('../assets/DSC-Dark.png')
                                                 : require('../assets/DSC-Light.png')
+                                        "
+                                    ></v-img>
+                                </div>
+                                <div>
+                                    <v-img
+                                        :height="$isMobile() ? 110 : 170"
+                                        contain
+                                        :src="
+                                            darkMode
+                                                ? require('../assets/UTMEBS-Dark.png')
+                                                : require('../assets/UTMEBS-Light.png')
                                         "
                                     ></v-img>
                                 </div>
