@@ -181,7 +181,7 @@
                                             <v-row>
                                                 <v-col>
                                                     <h1 class="text-start">
-                                                        PreAlpha
+                                                        Alpha
                                                     </h1>
                                                 </v-col>
                                                 <v-icon size="64">
@@ -208,7 +208,7 @@
                                                 </li>
                                             </ul>
                                             <v-btn class="ma-4 start" disabled>
-                                                Upgraded to Alpha
+                                                Upgraded to MVP
                                             </v-btn>
                                         </v-sheet>
                                     </v-card>
@@ -225,11 +225,11 @@
                                         <v-card-title color="blue lighten-1">
                                             <v-row>
                                                 <v-col>
-                                                    <h1 class="text-start">Alpha</h1>
+                                                    <h1 class="text-start">MVP</h1>
                                                     <h1
                                                         class="text-start text-subtitle-1"
                                                     >
-                                                        Available Now
+                                                        Minimum Viable Product
                                                     </h1>
                                                 </v-col>
                                                 <v-icon size="64">
@@ -273,7 +273,27 @@
                                         </v-sheet>
                                     </v-card>
                                 </v-timeline-item>
-
+                                <v-timeline-item color="red lighten-1" fill-dot left>
+                                    <!-- <v-card shaped width = '500'>
+                                        <v-card-title class="red lighten-2 justify-start">
+                                            Added courses from all 3 campuses
+                                        </v-card-title>
+                                    </v-card>     -->
+                                    <v-row justify='end'>
+                                    <v-banner color="red lighten-2" width='300' class='rounded-xl' dark>
+                                        Added courses from all 3 campuses
+                                    </v-banner>
+                                    </v-row>
+                                </v-timeline-item>
+                                <v-timeline-item color="red lighten-1" fill-dot left>
+                                    <v-row justify='end'>
+                                    <v-banner color="red lighten-2" width='500' class='rounded-xl' dark>
+                                        Save timetable in the browser for when you visit again
+                                    </v-banner>
+                                    </v-row>
+                                    
+                                </v-timeline-item>
+<!-- 
                                 <v-timeline-item color="red lighten-1" fill-dot left>
                                     <v-card color="red lighten-1">
                                         <v-card-title class="red lighten-1">
@@ -319,7 +339,7 @@
                                             </v-btn>
                                         </v-sheet>
                                     </v-card>
-                                </v-timeline-item>
+                                </v-timeline-item> -->
                             </v-timeline>
                             <h1 class="text-body-1 ma-1">
                                 Keep in mind, the deadlines for each release is when
