@@ -1,9 +1,7 @@
 <template>
     <v-app>
         <v-content
-            :style="
-                darkMode ? 'background-color: #000000' : 'background-color: #F5F5F6'
-            "
+            :style="darkMode ? 'background-color: #000000' : 'background-color: #F5F5F6'"
             class="pt-0"
         >
             <v-app-bar
@@ -14,8 +12,7 @@
                 :style="
                     top
                         ? 'background-color: transparent'
-                        : 'background-color: #012B5C'
-                "
+                        : 'background-color: #012B5C'"
             >
                 <v-img
                     src="../assets/VIA-Planner-White.png"
@@ -24,8 +21,7 @@
                     @click="
                         $isMobile()
                             ? (mobileAlert = true)
-                            : $router.push({ name: 'home' })
-                    "
+                            : $router.push({ name: 'home' })"
                     style="cursor: pointer"
                 />
                 <v-spacer></v-spacer>
@@ -293,17 +289,17 @@
                                     </v-row>
                                     
                                 </v-timeline-item>
-<!-- 
+
                                 <v-timeline-item color="red lighten-1" fill-dot left>
                                     <v-card color="red lighten-1">
                                         <v-card-title class="red lighten-1">
                                             <v-row>
                                                 <v-col>
-                                                    <h1 class="text-start">Beta</h1>
+                                                    <h1 class="text-start">V1.0</h1>
                                                     <h1
                                                         class="text-start text-subtitle-1"
                                                     >
-                                                        End of August
+                                                        WIP
                                                     </h1>
                                                 </v-col>
                                                 <v-icon size="64">
@@ -314,21 +310,14 @@
                                         <v-sheet class="pa-5 text-left">
                                             <ul>
                                                 <li>
-                                                    Course suggestion based on
-                                                    programs (only for selected
-                                                    programs)
-                                                </li>
-                                                <li>Added courses from all 3 campuses</li>
-                                                <li>Bird course recommendations</li>
-                                                <li>Save timetable in the browser for when you visit again</li>
-                                                <li>
-                                                    More UI improvement
+                                                    Store your timetable into your account
                                                 </li>
                                                 <li>
-                                                    Work flawlessly with
-                                                    self-conflicting courses
+                                                    Export timetable to your calendar
                                                 </li>
-                                                <li>Bug fixes</li>
+                                                <li>
+                                                    Access your timetable anywhere using our APP!
+                                                </li>
                                             </ul>
                                             <v-btn
                                                 class="ma-4 start"
@@ -339,7 +328,7 @@
                                             </v-btn>
                                         </v-sheet>
                                     </v-card>
-                                </v-timeline-item> -->
+                                </v-timeline-item>
                             </v-timeline>
                             <h1 class="text-body-1 ma-1">
                                 Keep in mind, the deadlines for each release is when
