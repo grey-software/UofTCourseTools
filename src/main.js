@@ -14,9 +14,16 @@ import VueMobileDetection from "vue-mobile-detection";
 import VueAnalytics from "vue-analytics";
 import VueHtml2Canvas from 'vue-html2canvas';
 import SmoothScrollbar from 'vue-smooth-scrollbar'
+import GAuth from 'vue-google-oauth2'
 
 Vue.config.productionTip = false;
 
+const gauthOption = {
+  clientId: '159393917339-7748u4ult18di6d9cosejo4kbcva0bpj.apps.googleusercontent.com',
+  scope: 'profile email',
+  prompt: 'select_account'
+}
+Vue.use(GAuth, gauthOption)
 Vue.use(SmoothScrollbar)
 Vue.use(VueHtml2Canvas);
 Vue.use(ToggleButton);

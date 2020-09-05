@@ -34,6 +34,7 @@
                 </v-tabs>
                 <course-search-bar style="margin: auto" />
                 <switch-sem style="margin: auto" />
+                <auth style="margin: auto"/>
                 <delivery-method-setting />
             </v-toolbar>
             <v-row>
@@ -67,6 +68,7 @@ import Tutorial from "../components/Popup/Tutorial";
 import SwitchSem from "../components/AppBar/SwitchSem";
 import SideBar from "../components/SidePanel/SideBar";
 import DeliveryMethodSetting from "../components/AppBar/DeliveryMethodSetting";
+import Auth from "../components/Auth/Auth"
 
 import { mapGetters, mapActions } from "vuex";
 
@@ -89,6 +91,7 @@ export default {
         Tutorial,
         SideBar,
         DeliveryMethodSetting,
+        Auth,
     },
     computed: {
         ...mapGetters([
