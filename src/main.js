@@ -19,9 +19,9 @@ import GAuth from 'vue-google-oauth2'
 Vue.config.productionTip = false;
 
 const gauthOption = {
-  clientId: '159393917339-7748u4ult18di6d9cosejo4kbcva0bpj.apps.googleusercontent.com',
-  scope: 'profile email',
-  prompt: 'select_account'
+    clientId: '159393917339-7748u4ult18di6d9cosejo4kbcva0bpj.apps.googleusercontent.com',
+    scope: 'profile email',
+    prompt: 'select_account'
 }
 Vue.use(GAuth, gauthOption)
 Vue.use(SmoothScrollbar)
