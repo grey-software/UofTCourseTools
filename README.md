@@ -31,7 +31,7 @@ The fundamental problem we are trying to solve :
 3. Furthermore, this will improve UofT's reputation since this tool will modernize a crucial part of a student's life.
 
 # Documentation
-[VIATimetbale Documentation](https://docs.viaplanner.ca)
+[VIATimetable Documentation](https://docs.viaplanner.ca)
 
 ## Installation Using NPM
 
